@@ -1,0 +1,44 @@
+{
+  "$id": "accomplishment_award_achievement",
+  "type": "object",
+  "oneOf": [
+    {
+      "title": "Verified",
+      "properties": {
+        "kind": {
+          "const": "verified"
+        },
+        "title": {
+          "type": "string"
+        },
+        "year": {
+          "$ref": "sharedDefinitions#/definitions/year"
+        },
+        "issuer": {
+          "oneOf": [{ "type": "null" }, { "type": "string" }]
+        }
+      },
+      "required": ["kind", "title", "year"],
+      "additionalProperties": false
+    },
+    {
+      "title": "Draft",
+      "properties": {
+        "kind": {
+          "const": "draft"
+        },
+        "title": {
+          "type": "string"
+        },
+        "year": {
+          "type": "string"
+        },
+        "issuer": {
+          "type": "string"
+        }
+      },
+      "required": ["kind"],
+      "additionalProperties": false
+    }
+  ]
+}

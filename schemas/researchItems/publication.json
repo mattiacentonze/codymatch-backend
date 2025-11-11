@@ -1,0 +1,104 @@
+{
+  "$id": "publication",
+  "type": "object",
+  "oneOf": [
+    {
+      "title": "Verified",
+      "properties": {
+        "kind": {
+          "const": "verified"
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "year": {
+          "$ref": "sharedDefinitions#/definitions/year"
+        },
+        "doi": {
+          "oneOf": [
+            { "type": "null" },
+            {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "^10\\.\\d{1,9}\\/[-._;()\\/:a-zA-Z0-9]+$"
+            }
+          ]
+        },
+        "volume": {
+          "oneOf": [{ "type": "null" }, { "type": "string" }]
+        },
+        "issue": {
+          "oneOf": [{ "type": "null" }, { "type": "string" }]
+        },
+        "firstPage": {
+          "oneOf": [{ "type": "null" }, { "type": "string" }]
+        },
+        "lastPage": {
+          "oneOf": [{ "type": "null" }, { "type": "string" }]
+        },
+        "abstract": {
+          "oneOf": [{ "type": "null" }, { "type": "string" }]
+        },
+        "sourceType": {
+          "type": "object"
+        },
+        "source": {
+          "type": "object"
+        }
+      },
+      "required": ["kind", "title", "year", "sourceType", "source"],
+      "additionalProperties": false,
+      "allOf": [
+        {
+          "if": { "required": ["lastPage"] },
+          "then": { "required": ["firstPage"] }
+        },
+        {
+          "if": { "required": ["firstPage"] },
+          "then": { "required": ["lastPage"] }
+        }
+      ]
+    },
+    {
+      "title": "Draft",
+      "properties": {
+        "kind": {
+          "const": "draft"
+        },
+        "title": {
+          "type": "string"
+        },
+        "year": {
+          "type": "string"
+        },
+        "doi": {
+          "type": "string"
+        },
+        "volume": {
+          "type": "string"
+        },
+        "issue": {
+          "type": "string"
+        },
+        "firstPage": {
+          "type": "string"
+        },
+        "lastPage": {
+          "type": "string"
+        },
+        "abstract": {
+          "type": "string"
+        },
+        "sourceType": {
+          "type": "object"
+        },
+        "source": {
+          "type": "object"
+        }
+      },
+      "required": ["kind"],
+      "additionalProperties": false
+    }
+  ]
+}

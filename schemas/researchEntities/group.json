@@ -1,0 +1,149 @@
+{
+  "$id": "group",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "shortName": {
+      "oneOf": [
+        {
+          "type": "null"
+        }, {
+          "type": "string"
+        }
+      ]
+    },
+    "scopusId": {
+      "oneOf": [
+        {
+          "type": "null"
+        }, {
+          "type": "string"
+        }
+      ]
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "institute",
+        "center",
+        "research_unit",
+        "research_domain",
+        "facility",
+        "project",
+        "directorate",
+        "initiative",
+        "other"
+      ]
+    },
+    "isActive": {
+      "type": "boolean",
+      "default": true
+    },
+    "startingDate": {
+      "oneOf": [
+        {
+          "type": "string",
+          "format": "date"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "code": {
+      "oneOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "description": {
+      "allOf": [
+        { "$ref": "sharedDefinitions#/definitions/stringValue" },
+        { "$ref": "sharedDefinitions#/definitions/privacy" },
+        { "$ref": "sharedDefinitions#/definitions/privacyDefaultHidden" }
+      ]
+    },
+    "shortDescription": {
+      "allOf": [
+        { "$ref": "sharedDefinitions#/definitions/stringValue" },
+        { "$ref": "sharedDefinitions#/definitions/privacy" },
+        { "$ref": "sharedDefinitions#/definitions/privacyDefaultPublic" },
+        { "$ref": "sharedDefinitions#/definitions/privacyEnumPublic" }
+      ]
+    },
+    "achievements": {
+      "allOf": [
+        { "$ref": "sharedDefinitions#/definitions/stringValue" },
+        { "$ref": "sharedDefinitions#/definitions/privacy" },
+        { "$ref": "sharedDefinitions#/definitions/privacyDefaultPublic" },
+        { "$ref": "sharedDefinitions#/definitions/privacyEnumPublic" }
+      ]
+    },
+    "collaborations": {
+      "allOf": [
+        { "$ref": "sharedDefinitions#/definitions/stringValue" },
+        { "$ref": "sharedDefinitions#/definitions/privacy" },
+        { "$ref": "sharedDefinitions#/definitions/privacyDefaultHidden" }
+      ]
+    },
+    "laboratories": {
+      "allOf": [
+        { "$ref": "sharedDefinitions#/definitions/stringValue" },
+        { "$ref": "sharedDefinitions#/definitions/privacy" },
+        { "$ref": "sharedDefinitions#/definitions/privacyDefaultHidden" }
+      ]
+    },
+    "url": {
+      "allOf": [
+        { "$ref": "sharedDefinitions#/definitions/urlValue" },
+        { "$ref": "sharedDefinitions#/definitions/privacy" },
+        { "$ref": "sharedDefinitions#/definitions/privacyDefaultHidden" }
+      ]
+    },
+    "topics": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "allOf": [
+          { "$ref": "sharedDefinitions#/definitions/notEmptyStringValue" },
+          { "$ref": "sharedDefinitions#/definitions/privacy" },
+          { "$ref": "sharedDefinitions#/definitions/privacyDefaultHidden" }
+        ]
+      }
+    },
+    "services": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "allOf": [
+          { "$ref": "sharedDefinitions#/definitions/notEmptyStringValue" },
+          { "$ref": "sharedDefinitions#/definitions/privacy" },
+          { "$ref": "sharedDefinitions#/definitions/privacyDefaultPublic" },
+          { "$ref": "sharedDefinitions#/definitions/privacyEnumPublic" }
+        ]
+      }
+    },
+    "coverImage": {
+      "allOf": [
+        { "$ref": "sharedDefinitions#/definitions/stringValue" },
+        { "$ref": "sharedDefinitions#/definitions/privacy" },
+        { "$ref": "sharedDefinitions#/definitions/privacyDefaultHidden" }
+      ]
+    }
+  },
+  "required": [
+    "name",
+    "slug",
+    "type",
+    "code"
+  ]
+}

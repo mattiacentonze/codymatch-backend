@@ -1,0 +1,54 @@
+{
+  "authors": [
+    {
+      "name": "Doe John",
+      "affiliations": [
+        { "instituteId": 714, "name": "Italian Institute of Technology" }
+      ],
+      "researchEntityId": null,
+      "position": 0,
+      "isCorrespondingAuthor": false,
+      "isFirstCoauthor": true,
+      "isLastCoauthor": false,
+      "isOralPresentation": false
+    },
+    {
+      "name": "Smith Simpson John Victor",
+      "affiliations": [
+        { "instituteId": 502, "name": "University of Salerno" }
+      ],
+      "researchEntityId": null,
+      "position": 1,
+      "isCorrespondingAuthor": false,
+      "isFirstCoauthor": false,
+      "isLastCoauthor": false,
+      "isOralPresentation": true
+    }
+  ],
+  "researchItemType": {
+    "id": 1,
+    "key": "article",
+    "label": "Article",
+    "shortLabel": "A",
+    "type": "publication",
+    "typeLabel": "Publication"
+  },
+  "data": {
+    "title": "test",
+    "year": "1999",
+    "doi": "10.1007/s10404-023-02629-4",
+    "abstract": "Test Article",
+    "sourceType": {
+      "id": 2,
+      "key": "journal",
+      "label": "Journal"
+    },
+    "source": {
+      "id": 1090,
+      "sourceTypeId": 2,
+      "title": "Nature Climate Change",
+      "issn": null,
+      "originIds": null
+    }
+  }
+}

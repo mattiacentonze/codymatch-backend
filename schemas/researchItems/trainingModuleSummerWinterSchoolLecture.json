@@ -1,0 +1,49 @@
+{
+  "$id": "trainingModuleSummerWinterSchoolLecture",
+  "type": "object",
+  "properties": {
+    "referent": {
+      "type": "integer"
+    },
+    "year": {
+      "$ref": "sharedDefinitions#/definitions/year"
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "hours": {
+      "type": "integer"
+    },
+    "lectures": {
+      "type": "integer"
+    },
+    "researchDomains": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    },
+    "delivery": {
+      "type": "string",
+      "enum": [
+        "On Line",
+        "In Presence",
+        "On Line/In Presence"
+      ]
+    }
+  },
+  "required": [
+    "referent",
+    "year",
+    "title",
+    "description",
+    "hours",
+    "lectures",
+    "researchDomains",
+    "location",
+    "delivery"
+  ]
+}

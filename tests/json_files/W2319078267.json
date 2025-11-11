@@ -1,0 +1,2225 @@
+{
+  "id": "https://openalex.org/W2319078267",
+  "doi": "https://doi.org/10.1093/annonc/mdw097",
+  "title": "Are strong opioids equally effective and safe in the treatment of chronic cancer pain? A multicenter randomized phase IV ‘real life’ trial on the variability of response to opioids",
+  "display_name": "Are strong opioids equally effective and safe in the treatment of chronic cancer pain? A multicenter randomized phase IV ‘real life’ trial on the variability of response to opioids",
+  "publication_year": 2016,
+  "publication_date": "2016-03-04",
+  "ids": {
+    "openalex": "https://openalex.org/W2319078267",
+    "doi": "https://doi.org/10.1093/annonc/mdw097",
+    "mag": "2319078267",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/26940689"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1093/annonc/mdw097",
+    "pdf_url": "https://academic.oup.com/annonc/article-pdf/27/6/1107/6677201/mdw097.pdf",
+    "source": {
+      "id": "https://openalex.org/S41454044",
+      "display_name": "Annals of Oncology",
+      "issn_l": "0923-7534",
+      "issn": [
+        "0923-7534",
+        "1569-8041"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "publisher-specific-oa",
+    "license_id": "https://openalex.org/licenses/publisher-specific-oa",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "type": "article",
+  "type_crossref": "journal-article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://academic.oup.com/annonc/article-pdf/27/6/1107/6677201/mdw097.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5041785799",
+        "display_name": "Oscar Corli",
+        "orcid": "https://orcid.org/0000-0002-5282-8657"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "O. Corli",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Unità di Ricerca nel Dolore e Cure Palliative"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Unità di Ricerca nel Dolore e Cure Palliative",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017440774",
+        "display_name": "Irene Floriani",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210153126",
+          "display_name": "Istituti di Ricovero e Cura a Carattere Scientifico",
+          "ror": "https://ror.org/04tfzc498",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210153126"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I19630809",
+          "display_name": "Mario Negri Institute for Pharmacological Research",
+          "ror": "https://ror.org/05aspc753",
+          "country_code": "IT",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I19630809",
+            "https://openalex.org/I4210110338",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "I. Floriani",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Laboratorio di Ricerca Clinica, IRCCS-Istituto di Ricerche Farmacologiche Mario Negri, Milan"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Laboratorio di Ricerca Clinica, IRCCS-Istituto di Ricerche Farmacologiche Mario Negri, Milan",
+          "institution_ids": [
+            "https://openalex.org/I4210153126",
+            "https://openalex.org/I19630809"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5091282340",
+        "display_name": "Roberto Ratiglia",
+        "orcid": "https://orcid.org/0000-0002-6756-1297"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "A. Roberto",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Unità di Ricerca nel Dolore e Cure Palliative"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Unità di Ricerca nel Dolore e Cure Palliative",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5050982431",
+        "display_name": "Mauro Montanari",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "M. Montanari",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Unità di Ricerca nel Dolore e Cure Palliative"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Unità di Ricerca nel Dolore e Cure Palliative",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5018196414",
+        "display_name": "Francesca Galli",
+        "orcid": "https://orcid.org/0000-0003-3091-7306"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I19630809",
+          "display_name": "Mario Negri Institute for Pharmacological Research",
+          "ror": "https://ror.org/05aspc753",
+          "country_code": "IT",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I19630809",
+            "https://openalex.org/I4210110338",
+            "https://openalex.org/I4210153126"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210153126",
+          "display_name": "Istituti di Ricovero e Cura a Carattere Scientifico",
+          "ror": "https://ror.org/04tfzc498",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "F. Galli",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Laboratorio di Ricerca Clinica, IRCCS-Istituto di Ricerche Farmacologiche Mario Negri, Milan"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Laboratorio di Ricerca Clinica, IRCCS-Istituto di Ricerche Farmacologiche Mario Negri, Milan",
+          "institution_ids": [
+            "https://openalex.org/I19630809",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5048347199",
+        "display_name": "Teresa Greco",
+        "orcid": "https://orcid.org/0000-0002-7114-8673"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I189158943",
+          "display_name": "University of Milan",
+          "ror": "https://ror.org/00wjc7c48",
+          "country_code": "IT",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I189158943"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M.T. Greco",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Unità di Ricerca nel Dolore e Cure Palliative; Department of Statistics, Università di Milano, Milan"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Unità di Ricerca nel Dolore e Cure Palliative; Department of Statistics, Università di Milano, Milan",
+          "institution_ids": [
+            "https://openalex.org/I189158943"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5007303009",
+        "display_name": "Augusto Caraceni",
+        "orcid": "https://orcid.org/0000-0002-0375-6204"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210156707",
+          "display_name": "Fondazione IRCCS Istituto Nazionale dei Tumori",
+          "ror": "https://ror.org/05dwj7825",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210153126",
+            "https://openalex.org/I4210156707"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "A. Caraceni",
+      "raw_affiliation_strings": [
+        "Palliative Care Complex Structure, Terapia del dolore e Riabilitazione, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Palliative Care Complex Structure, Terapia del dolore e Riabilitazione, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy",
+          "institution_ids": [
+            "https://openalex.org/I4210156707"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5110986956",
+        "display_name": "S. Kaasa",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I204778367",
+          "display_name": "Norwegian University of Science and Technology",
+          "ror": "https://ror.org/05xg72x27",
+          "country_code": "NO",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I204778367"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "S. Kaasa",
+      "raw_affiliation_strings": [
+        "Department of Cancer Research and Molecular Medicine, Faculty of Medicine, Norwegian University of Science and Technology, Norway"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Cancer Research and Molecular Medicine, Faculty of Medicine, Norwegian University of Science and Technology, Norway",
+          "institution_ids": [
+            "https://openalex.org/I204778367"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5007370324",
+        "display_name": "Tommaso A. Dragani",
+        "orcid": "https://orcid.org/0000-0001-5915-4598"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210156707",
+          "display_name": "Fondazione IRCCS Istituto Nazionale dei Tumori",
+          "ror": "https://ror.org/05dwj7825",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210153126",
+            "https://openalex.org/I4210156707"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "T.A. Dragani",
+      "raw_affiliation_strings": [
+        "S.S.D. Epidemiology, Genetics and Pharmacogenomics, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "S.S.D. Epidemiology, Genetics and Pharmacogenomics, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan",
+          "institution_ids": [
+            "https://openalex.org/I4210156707"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5074690105",
+        "display_name": "Giuseppe Azzarello",
+        "orcid": "https://orcid.org/0000-0003-4928-713X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210135599",
+          "display_name": "Ospedale di Mirano",
+          "ror": "https://ror.org/03rjjzx12",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210135599"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "G. Azzarello",
+      "raw_affiliation_strings": [
+        "Department of Hematology and Oncology, Ospedale di U.O.C. di Oncologia Mirano–ASL 13 Regione Veneto, Mirano"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Hematology and Oncology, Ospedale di U.O.C. di Oncologia Mirano–ASL 13 Regione Veneto, Mirano",
+          "institution_ids": [
+            "https://openalex.org/I4210135599"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5082767502",
+        "display_name": "Massimo Luzzani",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I3018768319",
+          "display_name": "Ente Ospedaliero Ospedali Galliera",
+          "ror": "https://ror.org/05bs6ak67",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I3018768319"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M. Luzzani",
+      "raw_affiliation_strings": [
+        "Department of Orthogeriatrics, S.S.D. Cure Palliative, riabilitazione e stabilizzazione E.O. Ospedali Galliera, Genova"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Orthogeriatrics, S.S.D. Cure Palliative, riabilitazione e stabilizzazione E.O. Ospedali Galliera, Genova",
+          "institution_ids": [
+            "https://openalex.org/I3018768319"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5074749942",
+        "display_name": "Luigi Cavanna",
+        "orcid": "https://orcid.org/0000-0002-0303-3778"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210136395",
+          "display_name": "Ospedaliera di Piacenza",
+          "ror": "https://ror.org/03364yv75",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210136395"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "L. Cavanna",
+      "raw_affiliation_strings": [
+        "Oncology Unit, Ospedale di Piacenza, Piacenza"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Oncology Unit, Ospedale di Piacenza, Piacenza",
+          "institution_ids": [
+            "https://openalex.org/I4210136395"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5021060477",
+        "display_name": "Elena Bandieri",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "E. Bandieri",
+      "raw_affiliation_strings": [
+        "Unit of Supportive and Simultaneous Care, Medical Oncology Division USL, Modena"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Unit of Supportive and Simultaneous Care, Medical Oncology Division USL, Modena",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5038529742",
+        "display_name": "Teresa Gamucci",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210124251",
+          "display_name": "Santissima Trinità",
+          "ror": "https://ror.org/037kzdg33",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210124251"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "T. Gamucci",
+      "raw_affiliation_strings": [
+        "UOC Medical Oncology, Ospedale SS Trinità, Sora"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "UOC Medical Oncology, Ospedale SS Trinità, Sora",
+          "institution_ids": [
+            "https://openalex.org/I4210124251"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5030288921",
+        "display_name": "Giovanni Lipari",
+        "orcid": "https://orcid.org/0000-0002-8543-8436"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "G. Lipari",
+      "raw_affiliation_strings": [
+        "Palliative Care, P.O. di Salemi–ASP 9, Trapani"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Palliative Care, P.O. di Salemi–ASP 9, Trapani",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5113013970",
+        "display_name": "R. Gregorio",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "R. Di Gregorio",
+      "raw_affiliation_strings": [
+        "U.O.S Obstetric Anasthesia and Pain Therapy, Opedale Sacro Cuore di Gesù – Fatebenefratelli, Benevento"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "U.O.S Obstetric Anasthesia and Pain Therapy, Opedale Sacro Cuore di Gesù – Fatebenefratelli, Benevento",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5086880660",
+        "display_name": "David Valenti",
+        "orcid": "https://orcid.org/0000-0002-2021-9961"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210109879",
+          "display_name": "Azienda Ospedaliera di Valtellina e Valchiavenna",
+          "ror": "https://ror.org/017vkhg73",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210109879"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "D. Valenti",
+      "raw_affiliation_strings": [
+        "Palliative Care Unit, Azienda Ospedaliera Valtellina e Valchiavenna, Morbegno"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Palliative Care Unit, Azienda Ospedaliera Valtellina e Valchiavenna, Morbegno",
+          "institution_ids": [
+            "https://openalex.org/I4210109879"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5041455735",
+        "display_name": "Carlo Reale",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800330116",
+          "display_name": "Policlinico Umberto I",
+          "ror": "https://ror.org/011cabk38",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800330116"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "C. Reale",
+      "raw_affiliation_strings": [
+        "Department of Cardiovascular Sciences, Respiratory, Nephrological, Anaesthetics and Geriatrics, Policlinico Universitario Umberto I, Rome"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Cardiovascular Sciences, Respiratory, Nephrological, Anaesthetics and Geriatrics, Policlinico Universitario Umberto I, Rome",
+          "institution_ids": [
+            "https://openalex.org/I2800330116"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5103032979",
+        "display_name": "L. Pavesi",
+        "orcid": "https://orcid.org/0009-0006-3530-4276"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210105320",
+          "display_name": "Fondazione Salvatore Maugeri",
+          "ror": "https://ror.org/01e8tvg28",
+          "country_code": "IT",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210105320",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "L. Pavesi",
+      "raw_affiliation_strings": [
+        "Unit of Oncology, RCCS-Fondazione Salvatore Maugeri, Pavia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Unit of Oncology, RCCS-Fondazione Salvatore Maugeri, Pavia",
+          "institution_ids": [
+            "https://openalex.org/I4210105320"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5088272376",
+        "display_name": "Vittorio Iorno",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2803066834",
+          "display_name": "Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico",
+          "ror": "https://ror.org/016zn0y21",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2803066834",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "V. Iorno",
+      "raw_affiliation_strings": [
+        "Centre for Pain Medicine M. TIENGO, Fondazione IRCCS Cà Granda Ospedale Maggiore Policlinico, Milan"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centre for Pain Medicine M. TIENGO, Fondazione IRCCS Cà Granda Ospedale Maggiore Policlinico, Milan",
+          "institution_ids": [
+            "https://openalex.org/I2803066834"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5082025328",
+        "display_name": "Carlo Crispino",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210140815",
+          "display_name": "Ospedale Monaldi",
+          "ror": "https://ror.org/0560hqd63",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210140815"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "C. Crispino",
+      "raw_affiliation_strings": [
+        "UOSD Treatment of Lung Cancer Complications, AO Dei Colli Monaldi Cotugno CTO Ospedale Monaldi, Napoli"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "UOSD Treatment of Lung Cancer Complications, AO Dei Colli Monaldi Cotugno CTO Ospedale Monaldi, Napoli",
+          "institution_ids": [
+            "https://openalex.org/I4210140815"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5049458927",
+        "display_name": "M. Pacchioni",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210133214",
+          "display_name": "IRCCS Ospedale San Raffaele",
+          "ror": "https://ror.org/039zxt351",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210133214",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M. Pacchioni",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Ospedale San Raffaele IRCCS, Milan"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Ospedale San Raffaele IRCCS, Milan",
+          "institution_ids": [
+            "https://openalex.org/I4210133214"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5052679679",
+        "display_name": "Giovanni Apolone",
+        "orcid": "https://orcid.org/0000-0001-5179-104X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210156707",
+          "display_name": "Fondazione IRCCS Istituto Nazionale dei Tumori",
+          "ror": "https://ror.org/05dwj7825",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210153126",
+            "https://openalex.org/I4210156707"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "G. Apolone",
+      "raw_affiliation_strings": [
+        "Scientific Direction, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Scientific Direction, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy",
+          "institution_ids": [
+            "https://openalex.org/I4210156707"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5015540059",
+        "display_name": "Michela Monfredo",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210133214",
+          "display_name": "IRCCS Ospedale San Raffaele",
+          "ror": "https://ror.org/039zxt351",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210133214",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M. Monfredo",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Ospedale San Raffaele IRCCS, Milan"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Ospedale San Raffaele IRCCS, Milan",
+          "institution_ids": [
+            "https://openalex.org/I4210133214"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5063469110",
+        "display_name": "Rosario Mistretta",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "R. Mistretta",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5037318654",
+        "display_name": "P.O. di Salemi",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210156707",
+          "display_name": "Fondazione IRCCS Istituto Nazionale dei Tumori",
+          "ror": "https://ror.org/05dwj7825",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210153126",
+            "https://openalex.org/I4210156707"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "P.O. di Salemi",
+      "raw_affiliation_strings": [
+        "Scientific Direction, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Scientific Direction, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy",
+          "institution_ids": [
+            "https://openalex.org/I4210156707"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057952903",
+        "display_name": "Ernesto Zecca",
+        "orcid": "https://orcid.org/0000-0003-1689-0370"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "E. Zecca",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5065640787",
+        "display_name": "Claudio Cartoni",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "C. Cartoni",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5107344204",
+        "display_name": "Gregorio Antonio Brunetti",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210156707",
+          "display_name": "Fondazione IRCCS Istituto Nazionale dei Tumori",
+          "ror": "https://ror.org/05dwj7825",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210153126",
+            "https://openalex.org/I4210156707"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "G.A. Brunetti",
+      "raw_affiliation_strings": [
+        "Scientific Direction, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Scientific Direction, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy",
+          "institution_ids": [
+            "https://openalex.org/I4210156707"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5020691388",
+        "display_name": "Davide Tassinari",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "D. Tassinari",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5013086481",
+        "display_name": "Fabrizio Drudi",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "F. Drudi",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5064986049",
+        "display_name": "Franco Rizzi",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "F. Rizzi",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5068026984",
+        "display_name": "Massimo Pizzuto",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210133214",
+          "display_name": "IRCCS Ospedale San Raffaele",
+          "ror": "https://ror.org/039zxt351",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210133214",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M. Pizzuto",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Ospedale San Raffaele IRCCS, Milan"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Ospedale San Raffaele IRCCS, Milan",
+          "institution_ids": [
+            "https://openalex.org/I4210133214"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5006238335",
+        "display_name": "Fabio Formaglio",
+        "orcid": "https://orcid.org/0000-0002-1070-8403"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "F. Formaglio",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5012718773",
+        "display_name": "Marta Luzi",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210133214",
+          "display_name": "IRCCS Ospedale San Raffaele",
+          "ror": "https://ror.org/039zxt351",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210133214",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M. Luzi",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Ospedale San Raffaele IRCCS, Milan"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Ospedale San Raffaele IRCCS, Milan",
+          "institution_ids": [
+            "https://openalex.org/I4210133214"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5028468534",
+        "display_name": "Filomena Narducci",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "F. Narducci",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5052513941",
+        "display_name": "Giorgia Boscolo",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "G. Boscolo",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5085686234",
+        "display_name": "M. Mangiapia",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210133214",
+          "display_name": "IRCCS Ospedale San Raffaele",
+          "ror": "https://ror.org/039zxt351",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210133214",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M. Mangiapia",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Ospedale San Raffaele IRCCS, Milan"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Ospedale San Raffaele IRCCS, Milan",
+          "institution_ids": [
+            "https://openalex.org/I4210133214"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5015790566",
+        "display_name": "Fabrizio Artioli",
+        "orcid": "https://orcid.org/0000-0002-2607-6260"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "F. Artioli",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5015263832",
+        "display_name": "Marzia Lazzari",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210133214",
+          "display_name": "IRCCS Ospedale San Raffaele",
+          "ror": "https://ror.org/039zxt351",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210133214",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M. Lazzari",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Ospedale San Raffaele IRCCS, Milan"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Ospedale San Raffaele IRCCS, Milan",
+          "institution_ids": [
+            "https://openalex.org/I4210133214"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5063759953",
+        "display_name": "Mario Dauri",
+        "orcid": "https://orcid.org/0000-0001-5592-783X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210133214",
+          "display_name": "IRCCS Ospedale San Raffaele",
+          "ror": "https://ror.org/039zxt351",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210133214",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M. Dauri",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Ospedale San Raffaele IRCCS, Milan"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Ospedale San Raffaele IRCCS, Milan",
+          "institution_ids": [
+            "https://openalex.org/I4210133214"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5089543316",
+        "display_name": "M. Diodati",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210133214",
+          "display_name": "IRCCS Ospedale San Raffaele",
+          "ror": "https://ror.org/039zxt351",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210133214",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M. Diodati",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Ospedale San Raffaele IRCCS, Milan"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Ospedale San Raffaele IRCCS, Milan",
+          "institution_ids": [
+            "https://openalex.org/I4210133214"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5088102612",
+        "display_name": "A. Cupaiolo",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "A. Cupaiolo",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5112229337",
+        "display_name": "Sergio Mameli",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "S. Mameli",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5041892208",
+        "display_name": "P.A. Monici Preti",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "P. Preti",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5056157710",
+        "display_name": "Paola Ferrari",
+        "orcid": "https://orcid.org/0000-0003-2983-9726"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "P. Ferrari",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5081636910",
+        "display_name": "G Vasini",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "G. Vasini",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5031811947",
+        "display_name": "Maria Teresa Roy",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I189158943",
+          "display_name": "University of Milan",
+          "ror": "https://ror.org/00wjc7c48",
+          "country_code": "IT",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I189158943"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M.T. Roy",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Unità di Ricerca nel Dolore e Cure Palliative; Department of Statistics, Università di Milano, Milan"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Unità di Ricerca nel Dolore e Cure Palliative; Department of Statistics, Università di Milano, Milan",
+          "institution_ids": [
+            "https://openalex.org/I189158943"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5107866166",
+        "display_name": "L Piva",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "L. Piva",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5007173790",
+        "display_name": "Lisa Nardi",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "L.F. Nardi",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5083294607",
+        "display_name": "Luigi Montanari",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "L. Montanari",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Unità di Ricerca nel Dolore e Cure Palliative"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Unità di Ricerca nel Dolore e Cure Palliative",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5109285658",
+        "display_name": "Vincent Reina",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2803066834",
+          "display_name": "Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico",
+          "ror": "https://ror.org/016zn0y21",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2803066834",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "V. Reina",
+      "raw_affiliation_strings": [
+        "Centre for Pain Medicine M. TIENGO, Fondazione IRCCS Cà Granda Ospedale Maggiore Policlinico, Milan"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centre for Pain Medicine M. TIENGO, Fondazione IRCCS Cà Granda Ospedale Maggiore Policlinico, Milan",
+          "institution_ids": [
+            "https://openalex.org/I2803066834"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5055281557",
+        "display_name": "Flavio Fusco",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "F. Fusco",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5076303697",
+        "display_name": "Luigi Orsi",
+        "orcid": "https://orcid.org/0000-0002-7621-0878"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "L. Orsi",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5046840844",
+        "display_name": "Elisa Molinari",
+        "orcid": "https://orcid.org/0000-0002-1840-915X"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "E. Molinari",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 15,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 4060,
+    "currency": "USD",
+    "value_usd": 4060
+  },
+  "apc_paid": null,
+  "fwci": 16.998,
+  "has_fulltext": true,
+  "fulltext_origin": "ngrams",
+  "cited_by_count": 135,
+  "citation_normalized_percentile": {
+    "value": 0.99964,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "27",
+    "issue": "6",
+    "first_page": "1107",
+    "last_page": "1115"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11199",
+    "display_name": "Pain Management and Opioid Use",
+    "score": 1,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2703",
+      "display_name": "Anesthesiology and Pain Medicine"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11199",
+      "display_name": "Pain Management and Opioid Use",
+      "score": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2703",
+        "display_name": "Anesthesiology and Pain Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10196",
+      "display_name": "Pain Mechanisms and Treatments",
+      "score": 0.9998,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2737",
+        "display_name": "Physiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10576",
+      "display_name": "Opioid Use Disorder Treatment",
+      "score": 0.9989,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2739",
+        "display_name": "Public Health, Environmental and Occupational Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/discontinuation",
+      "display_name": "Discontinuation",
+      "score": 0.5009382
+    },
+    {
+      "id": "https://openalex.org/keywords/brief-pain-inventory",
+      "display_name": "Brief Pain Inventory",
+      "score": 0.4534975
+    },
+    {
+      "id": "https://openalex.org/keywords/pain-ladder",
+      "display_name": "Pain ladder",
+      "score": 0.44497597
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.9476198
+    },
+    {
+      "id": "https://openalex.org/C2776029756",
+      "wikidata": "https://www.wikidata.org/wiki/Q407535",
+      "display_name": "Oxycodone",
+      "level": 4,
+      "score": 0.9087302
+    },
+    {
+      "id": "https://openalex.org/C2777389121",
+      "wikidata": "https://www.wikidata.org/wiki/Q81225",
+      "display_name": "Morphine",
+      "level": 2,
+      "score": 0.8031218
+    },
+    {
+      "id": "https://openalex.org/C2781072394",
+      "wikidata": "https://www.wikidata.org/wiki/Q407541",
+      "display_name": "Fentanyl",
+      "level": 2,
+      "score": 0.69559777
+    },
+    {
+      "id": "https://openalex.org/C2778949969",
+      "wikidata": "https://www.wikidata.org/wiki/Q407721",
+      "display_name": "Buprenorphine",
+      "level": 4,
+      "score": 0.63619065
+    },
+    {
+      "id": "https://openalex.org/C2780820201",
+      "wikidata": "https://www.wikidata.org/wiki/Q173235",
+      "display_name": "Analgesic",
+      "level": 2,
+      "score": 0.5845635
+    },
+    {
+      "id": "https://openalex.org/C2781063702",
+      "wikidata": "https://www.wikidata.org/wiki/Q427523",
+      "display_name": "Opioid",
+      "level": 3,
+      "score": 0.5843928
+    },
+    {
+      "id": "https://openalex.org/C2778904085",
+      "wikidata": "https://www.wikidata.org/wiki/Q3712728",
+      "display_name": "Cancer pain",
+      "level": 3,
+      "score": 0.5814823
+    },
+    {
+      "id": "https://openalex.org/C2778715236",
+      "wikidata": "https://www.wikidata.org/wiki/Q55622662",
+      "display_name": "Discontinuation",
+      "level": 2,
+      "score": 0.5009382
+    },
+    {
+      "id": "https://openalex.org/C42219234",
+      "wikidata": "https://www.wikidata.org/wiki/Q131130",
+      "display_name": "Anesthesia",
+      "level": 1,
+      "score": 0.48972964
+    },
+    {
+      "id": "https://openalex.org/C168563851",
+      "wikidata": "https://www.wikidata.org/wiki/Q1436668",
+      "display_name": "Randomized controlled trial",
+      "level": 2,
+      "score": 0.48881003
+    },
+    {
+      "id": "https://openalex.org/C197934379",
+      "wikidata": "https://www.wikidata.org/wiki/Q2047938",
+      "display_name": "Adverse effect",
+      "level": 2,
+      "score": 0.45624772
+    },
+    {
+      "id": "https://openalex.org/C2780052408",
+      "wikidata": "https://www.wikidata.org/wiki/Q4967024",
+      "display_name": "Brief Pain Inventory",
+      "level": 3,
+      "score": 0.4534975
+    },
+    {
+      "id": "https://openalex.org/C55932262",
+      "wikidata": "https://www.wikidata.org/wiki/Q7827726",
+      "display_name": "Pain ladder",
+      "level": 4,
+      "score": 0.44497597
+    },
+    {
+      "id": "https://openalex.org/C2781118164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1088113",
+      "display_name": "Chronic pain",
+      "level": 2,
+      "score": 0.39495528
+    },
+    {
+      "id": "https://openalex.org/C121608353",
+      "wikidata": "https://www.wikidata.org/wiki/Q12078",
+      "display_name": "Cancer",
+      "level": 2,
+      "score": 0.33054042
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.30093777
+    },
+    {
+      "id": "https://openalex.org/C1862650",
+      "wikidata": "https://www.wikidata.org/wiki/Q186005",
+      "display_name": "Physical therapy",
+      "level": 1,
+      "score": 0.13857329
+    },
+    {
+      "id": "https://openalex.org/C170493617",
+      "wikidata": "https://www.wikidata.org/wiki/Q208467",
+      "display_name": "Receptor",
+      "level": 2,
+      "score": 0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000701",
+      "descriptor_name": "Analgesics, Opioid",
+      "qualifier_ui": "Q000008",
+      "qualifier_name": "administration & dosage",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000072716",
+      "descriptor_name": "Cancer Pain",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D009369",
+      "descriptor_name": "Neoplasms",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000368",
+      "descriptor_name": "Aged",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000701",
+      "descriptor_name": "Analgesics, Opioid",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000701",
+      "descriptor_name": "Analgesics, Opioid",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000072716",
+      "descriptor_name": "Cancer Pain",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000072716",
+      "descriptor_name": "Cancer Pain",
+      "qualifier_ui": "Q000150",
+      "qualifier_name": "complications",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000072716",
+      "descriptor_name": "Cancer Pain",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D064420",
+      "descriptor_name": "Drug-Related Side Effects and Adverse Reactions",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D064420",
+      "descriptor_name": "Drug-Related Side Effects and Adverse Reactions",
+      "qualifier_ui": "Q000145",
+      "qualifier_name": "classification",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D064420",
+      "descriptor_name": "Drug-Related Side Effects and Adverse Reactions",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005283",
+      "descriptor_name": "Fentanyl",
+      "qualifier_ui": "Q000008",
+      "qualifier_name": "administration & dosage",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005283",
+      "descriptor_name": "Fentanyl",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005283",
+      "descriptor_name": "Fentanyl",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008875",
+      "descriptor_name": "Middle Aged",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009020",
+      "descriptor_name": "Morphine",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009020",
+      "descriptor_name": "Morphine",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009020",
+      "descriptor_name": "Morphine",
+      "qualifier_ui": "Q000008",
+      "qualifier_name": "administration & dosage",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009369",
+      "descriptor_name": "Neoplasms",
+      "qualifier_ui": "Q000473",
+      "qualifier_name": "pathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009369",
+      "descriptor_name": "Neoplasms",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009369",
+      "descriptor_name": "Neoplasms",
+      "qualifier_ui": "Q000150",
+      "qualifier_name": "complications",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010098",
+      "descriptor_name": "Oxycodone",
+      "qualifier_ui": "Q000008",
+      "qualifier_name": "administration & dosage",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010098",
+      "descriptor_name": "Oxycodone",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010098",
+      "descriptor_name": "Oxycodone",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 3,
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1093/annonc/mdw097",
+      "pdf_url": "https://academic.oup.com/annonc/article-pdf/27/6/1107/6677201/mdw097.pdf",
+      "source": {
+        "id": "https://openalex.org/S41454044",
+        "display_name": "Annals of Oncology",
+        "issn_l": "0923-7534",
+        "issn": [
+          "0923-7534",
+          "1569-8041"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "publisher-specific-oa",
+      "license_id": "https://openalex.org/licenses/publisher-specific-oa",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "https://hdl.handle.net/2434/914155",
+      "pdf_url": "https://air.unimi.it/bitstream/2434/914155/2/main41.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306400516",
+        "display_name": "Archivio Istituzionale della Ricerca (Universita Degli Studi Di Milano)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I189158943",
+        "host_organization_name": "University of Milan",
+        "host_organization_lineage": [
+          "https://openalex.org/I189158943"
+        ],
+        "host_organization_lineage_names": [
+          "University of Milan"
+        ],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    },
+    {
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/26940689",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [
+          "National Institutes of Health"
+        ],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1093/annonc/mdw097",
+    "pdf_url": "https://academic.oup.com/annonc/article-pdf/27/6/1107/6677201/mdw097.pdf",
+    "source": {
+      "id": "https://openalex.org/S41454044",
+      "display_name": "Annals of Oncology",
+      "issn_l": "0923-7534",
+      "issn": [
+        "0923-7534",
+        "1569-8041"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "publisher-specific-oa",
+    "license_id": "https://openalex.org/licenses/publisher-specific-oa",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Good health and well-being",
+      "id": "https://metadata.un.org/sdg/3",
+      "score": 0.84
+    }
+  ],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 31,
+  "referenced_works": [
+    "https://openalex.org/W1656461080",
+    "https://openalex.org/W1912993613",
+    "https://openalex.org/W1965144463",
+    "https://openalex.org/W1966702876",
+    "https://openalex.org/W1982610108",
+    "https://openalex.org/W1990603703",
+    "https://openalex.org/W1991685260",
+    "https://openalex.org/W1995088563",
+    "https://openalex.org/W1995315035",
+    "https://openalex.org/W2023183852",
+    "https://openalex.org/W2027440347",
+    "https://openalex.org/W2039898366",
+    "https://openalex.org/W2055460015",
+    "https://openalex.org/W2064295454",
+    "https://openalex.org/W2083655489",
+    "https://openalex.org/W2084353608",
+    "https://openalex.org/W2087795403",
+    "https://openalex.org/W2088216581",
+    "https://openalex.org/W2108802610",
+    "https://openalex.org/W2125102982",
+    "https://openalex.org/W2138295551",
+    "https://openalex.org/W2144759666",
+    "https://openalex.org/W2148000461",
+    "https://openalex.org/W2157594275",
+    "https://openalex.org/W2158906680",
+    "https://openalex.org/W2177315914",
+    "https://openalex.org/W2290934903",
+    "https://openalex.org/W2403994673",
+    "https://openalex.org/W3130168933",
+    "https://openalex.org/W4322702922",
+    "https://openalex.org/W44875257"
+  ],
+  "related_works": [
+    "https://openalex.org/W4378745111",
+    "https://openalex.org/W4249926823",
+    "https://openalex.org/W3191283176",
+    "https://openalex.org/W3129704448",
+    "https://openalex.org/W3086563955",
+    "https://openalex.org/W2992989471",
+    "https://openalex.org/W2765262925",
+    "https://openalex.org/W2585124370",
+    "https://openalex.org/W1995673621",
+    "https://openalex.org/W1933185322"
+  ],
+  "abstract_inverted_index": null,
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2319078267",
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 18
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 21
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 14
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 16
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 8
+    }
+  ],
+  "updated_date": "2025-05-12T20:23:20.488463",
+  "created_date": "2016-06-24"
+}

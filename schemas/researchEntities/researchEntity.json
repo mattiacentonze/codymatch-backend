@@ -1,0 +1,28 @@
+{
+  "$id": "researchEntity",
+  "type": "object",
+  "properties": {
+    "code": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string"
+    },
+    "data": {
+      "type": "object"
+    },
+    "settings": {
+      "type": "object",
+      "properties": {
+        "openAlexId": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": true
+    },
+    "importedData": {
+      "type": "object"
+    }
+  },
+  "required": ["type", "code"]
+}

@@ -1,0 +1,148 @@
+{
+  "$id": "publicationPhdThesis",
+  "type": "object",
+  "properties": {
+    "researchItemTypeId": {
+      "type": "integer"
+    },
+    "title": {
+      "oneOf": [
+        {
+          "type": "null"
+        }, {
+          "type": "string"
+        }
+      ]
+    },
+    "year": {
+      "oneOf": [
+        {
+          "type": "null"
+        }, {
+          "type": "string"
+        }
+      ]
+    },
+    "doi": {
+      "oneOf": [
+        {
+          "type": "null"
+        }, {
+          "type": "string"
+        }
+      ]
+    },
+    "scopusId": {
+      "oneOf": [
+        {
+          "type": "null"
+        }, {
+          "type": "string"
+        }
+      ]
+    },
+    "wosId": {
+      "oneOf": [
+        {
+          "type": "null"
+        }, {
+          "type": "string"
+        }
+      ]
+    },
+    "abstract": {
+      "oneOf": [
+        {
+          "type": "null"
+        }, {
+          "type": "string"
+        }
+      ]
+    },
+    "phdInstituteId": {
+      "oneOf": [
+        {
+          "type": "null"
+        }, {
+          "type": "integer"
+        }
+      ]
+    },
+    "phdCourseId": {
+      "oneOf": [
+        {
+          "type": "null"
+        }, {
+          "type": "integer"
+        }
+      ]
+    },
+    "phCycleId": {
+      "oneOf": [
+        {
+          "type": "null"
+        }, {
+          "type": "integer"
+        }
+      ]
+    },
+    "isPhdThesisInstitutional": {
+      "type": "boolean",
+      "default": false
+    },
+    "curriculum": {
+      "oneOf": [
+        {
+          "type": "null"
+        }, {
+          "type": "string"
+        }
+      ]
+    },
+    "supervisors": {
+      "oneOf": [
+        {
+          "type": "null"
+        }, {
+          "type": "string"
+        }
+      ]
+    },
+    "otherSupervisors": {
+      "oneOf": [
+        {
+          "type": "null"
+        }, {
+          "type": "string"
+        }
+      ]
+    },
+    "academicInstitution": {
+      "oneOf": [
+        {
+          "type": "null"
+        }, {
+          "type": "string"
+        }
+      ]
+    },
+    "language": {
+      "oneOf": [
+        {
+          "type": "null"
+        }, {
+          "type": "string"
+        }
+      ]
+    },
+    "handle": {
+      "oneOf": [
+        {
+          "type": "null"
+        }, {
+          "type": "string"
+        }
+      ]
+    }
+  }
+}

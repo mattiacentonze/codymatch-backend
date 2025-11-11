@@ -1,0 +1,67 @@
+{
+  "results": [
+    {
+      "id": "https://openalex.org/W123",
+      "doi": "10.1234/quantum.structure",
+      "title": "Quantum Structures",
+      "publication_year": 2023,
+      "type": "article",
+      "primary_location": {
+        "source": {
+          "id": "https://openalex.org/S123",
+          "display_name": "Nature Physics",
+          "type": "journal",
+          "issn": "1234-5678"
+        }
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "is_corresponding": true,
+          "author": {
+            "display_name": "Elisa Molinari"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122346577",
+              "display_name": "University of Modena and Reggio Emilia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W456",
+      "doi": "10.1234/nanotech.device",
+      "title": "Nanotechnology Devices",
+      "publication_year": 2022,
+      "type": "article",
+      "primary_location": {
+        "source": {
+          "id": "https://openalex.org/S456",
+          "display_name": "Nano Letters",
+          "type": "journal",
+          "issn": "9876-5432"
+        }
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "is_corresponding": false,
+          "author": {
+            "display_name": "Elisa Molinari"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210087815",
+              "display_name": "Istituto Nanoscienze"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "next_cursor": null
+  }
+}

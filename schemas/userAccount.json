@@ -1,0 +1,25 @@
+{
+  "$id": "userAccount",
+  "type": "object",
+  "properties": {
+    "username": {
+      "type": "string",
+      "format": "email"
+    },
+    "lastLogin": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time",
+      "default": null
+    },
+    "active": {
+      "type": "boolean",
+      "default": true
+    }
+  },
+  "required": [
+    "username"
+  ]
+}

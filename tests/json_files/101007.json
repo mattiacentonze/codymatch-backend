@@ -1,0 +1,841 @@
+{
+  "id": "https://openalex.org/W4321186873",
+  "doi": "https://doi.org/10.1007/s10404-023-02629-4",
+  "title": "Spheroids, organoids and kidneys-on-chips: how complex human cellular models have assisted in the study of kidney disease and renal ciliopathies",
+  "display_name": "Spheroids, organoids and kidneys-on-chips: how complex human cellular models have assisted in the study of kidney disease and renal ciliopathies",
+  "publication_year": 2023,
+  "publication_date": "2023-02-17",
+  "ids": {
+    "openalex": "https://openalex.org/W4321186873",
+    "doi": "https://doi.org/10.1007/s10404-023-02629-4"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/s10404-023-02629-4",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10404-023-02629-4.pdf",
+    "source": {
+      "id": "https://openalex.org/S3892946",
+      "display_name": "Microfluidics and Nanofluidics",
+      "issn_l": "1613-4982",
+      "issn": [
+        "1613-4982",
+        "1613-4990"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319965",
+        "https://openalex.org/P4310319900"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Nature",
+        "Springer Science+Business Media"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "type": "article",
+  "type_crossref": "journal-article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s10404-023-02629-4.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5060171836",
+        "display_name": "Rebecca Marie Dewhurst",
+        "orcid": "https://orcid.org/0000-0002-7636-3831"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2802983449",
+          "display_name": "Centre for Life",
+          "ror": "https://ror.org/027tbp210",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2802983449"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I84884186",
+          "display_name": "Newcastle University",
+          "ror": "https://ror.org/01kj2bm70",
+          "country_code": "GB",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I84884186"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Rebecca Marie Dewhurst",
+      "raw_affiliation_strings": [
+        "Translational and Clinical Research Institute, Faculty of Medical Sciences, Newcastle University, International Centre for Life, Central Parkway, Newcastle Upon Tyne, NE1 3BZ, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Translational and Clinical Research Institute, Faculty of Medical Sciences, Newcastle University, International Centre for Life, Central Parkway, Newcastle Upon Tyne, NE1 3BZ, UK",
+          "institution_ids": [
+            "https://openalex.org/I2802983449",
+            "https://openalex.org/I84884186"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5046840844",
+        "display_name": "Elisa Molinari",
+        "orcid": "https://orcid.org/0000-0002-1840-915X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2802983449",
+          "display_name": "Centre for Life",
+          "ror": "https://ror.org/027tbp210",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I2802983449"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I84884186",
+          "display_name": "Newcastle University",
+          "ror": "https://ror.org/01kj2bm70",
+          "country_code": "GB",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I84884186"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Elisa Molinari",
+      "raw_affiliation_strings": [
+        "Translational and Clinical Research Institute, Faculty of Medical Sciences, Newcastle University, International Centre for Life, Central Parkway, Newcastle Upon Tyne, NE1 3BZ, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Translational and Clinical Research Institute, Faculty of Medical Sciences, Newcastle University, International Centre for Life, Central Parkway, Newcastle Upon Tyne, NE1 3BZ, UK",
+          "institution_ids": [
+            "https://openalex.org/I2802983449",
+            "https://openalex.org/I84884186"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5040517393",
+        "display_name": "John A. Sayer",
+        "orcid": "https://orcid.org/0000-0003-1881-3782"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801663869",
+          "display_name": "Newcastle upon Tyne Hospitals NHS Foundation Trust",
+          "ror": "https://ror.org/05p40t847",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801663869"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "John A. Sayer",
+      "raw_affiliation_strings": [
+        "Renal Services, The Newcastle Upon Tyne Hospitals NHS Foundations Trust, Newcastle Upon Tyne, NE7 7DN, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Renal Services, The Newcastle Upon Tyne Hospitals NHS Foundations Trust, Newcastle Upon Tyne, NE7 7DN, UK",
+          "institution_ids": [
+            "https://openalex.org/I2801663869"
+          ]
+        }
+      ]
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5060171836"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I2802983449",
+    "https://openalex.org/I84884186"
+  ],
+  "apc_list": {
+    "value": 2790,
+    "currency": "EUR",
+    "value_usd": 3590
+  },
+  "apc_paid": {
+    "value": 2790,
+    "currency": "EUR",
+    "value_usd": 3590
+  },
+  "fwci": 0.777,
+  "has_fulltext": true,
+  "fulltext_origin": "pdf",
+  "cited_by_count": 4,
+  "citation_normalized_percentile": {
+    "value": 0.670568,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 85,
+    "max": 88
+  },
+  "biblio": {
+    "volume": "27",
+    "issue": "3",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12140",
+    "display_name": "Renal and related cancers",
+    "score": 0.9998,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12140",
+      "display_name": "Renal and related cancers",
+      "score": 0.9998,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11412",
+      "display_name": "Genetic and Kidney Cyst Diseases",
+      "score": 0.9965,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1311",
+        "display_name": "Genetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11190",
+      "display_name": "3D Printing in Biomedical Research",
+      "score": 0.994,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/organoid",
+      "display_name": "Organoid",
+      "score": 0.7062292
+    },
+    {
+      "id": "https://openalex.org/keywords/organ-on-a-chip",
+      "display_name": "Organ-on-a-Chip",
+      "score": 0.4336156
+    },
+    {
+      "id": "https://openalex.org/keywords/spheroid",
+      "display_name": "Spheroid",
+      "score": 0.4316516
+    },
+    {
+      "id": "https://openalex.org/keywords/human-disease",
+      "display_name": "Human disease",
+      "score": 0.41296244
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C31695470",
+      "wikidata": "https://www.wikidata.org/wiki/Q11293125",
+      "display_name": "Organoid",
+      "level": 2,
+      "score": 0.7062292
+    },
+    {
+      "id": "https://openalex.org/C2780091579",
+      "wikidata": "https://www.wikidata.org/wiki/Q9377",
+      "display_name": "Kidney",
+      "level": 2,
+      "score": 0.47225848
+    },
+    {
+      "id": "https://openalex.org/C2779134260",
+      "wikidata": "https://www.wikidata.org/wiki/Q12136",
+      "display_name": "Disease",
+      "level": 2,
+      "score": 0.43503267
+    },
+    {
+      "id": "https://openalex.org/C165932988",
+      "wikidata": "https://www.wikidata.org/wiki/Q7101746",
+      "display_name": "Organ-on-a-chip",
+      "level": 3,
+      "score": 0.4336156
+    },
+    {
+      "id": "https://openalex.org/C175369904",
+      "wikidata": "https://www.wikidata.org/wiki/Q208395",
+      "display_name": "Spheroid",
+      "level": 3,
+      "score": 0.4316516
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.41300705
+    },
+    {
+      "id": "https://openalex.org/C2988867146",
+      "wikidata": "https://www.wikidata.org/wiki/Q12136",
+      "display_name": "Human disease",
+      "level": 3,
+      "score": 0.41296244
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.40017098
+    },
+    {
+      "id": "https://openalex.org/C60644358",
+      "wikidata": "https://www.wikidata.org/wiki/Q128570",
+      "display_name": "Bioinformatics",
+      "level": 1,
+      "score": 0.3721825
+    },
+    {
+      "id": "https://openalex.org/C169760540",
+      "wikidata": "https://www.wikidata.org/wiki/Q207011",
+      "display_name": "Neuroscience",
+      "level": 1,
+      "score": 0.3533454
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.33797106
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.33026296
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0.28778347
+    },
+    {
+      "id": "https://openalex.org/C171250308",
+      "wikidata": "https://www.wikidata.org/wiki/Q11468",
+      "display_name": "Nanotechnology",
+      "level": 1,
+      "score": 0.23968235
+    },
+    {
+      "id": "https://openalex.org/C81885089",
+      "wikidata": "https://www.wikidata.org/wiki/Q189082",
+      "display_name": "Cell culture",
+      "level": 2,
+      "score": 0.20868164
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.1753507
+    },
+    {
+      "id": "https://openalex.org/C8673954",
+      "wikidata": "https://www.wikidata.org/wiki/Q138845",
+      "display_name": "Microfluidics",
+      "level": 2,
+      "score": 0.16749519
+    },
+    {
+      "id": "https://openalex.org/C192562407",
+      "wikidata": "https://www.wikidata.org/wiki/Q228736",
+      "display_name": "Materials science",
+      "level": 0,
+      "score": 0
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1007/s10404-023-02629-4",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10404-023-02629-4.pdf",
+      "source": {
+        "id": "https://openalex.org/S3892946",
+        "display_name": "Microfluidics and Nanofluidics",
+        "issn_l": "1613-4982",
+        "issn": [
+          "1613-4982",
+          "1613-4990"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319965",
+          "https://openalex.org/P4310319900"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Nature",
+          "Springer Science+Business Media"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/s10404-023-02629-4",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10404-023-02629-4.pdf",
+    "source": {
+      "id": "https://openalex.org/S3892946",
+      "display_name": "Microfluidics and Nanofluidics",
+      "issn_l": "1613-4982",
+      "issn": [
+        "1613-4982",
+        "1613-4990"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319965",
+        "https://openalex.org/P4310319900"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Nature",
+        "Springer Science+Business Media"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.7,
+      "display_name": "Good health and well-being",
+      "id": "https://metadata.un.org/sdg/3"
+    }
+  ],
+  "grants": [
+    {
+      "funder": "https://openalex.org/F4320320008",
+      "funder_display_name": "Kidney Research UK",
+      "award_id": null
+    },
+    {
+      "funder": "https://openalex.org/F4320322430",
+      "funder_display_name": "Northern Counties Kidney Research Fund",
+      "award_id": null
+    }
+  ],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 121,
+  "referenced_works": [
+    "https://openalex.org/W1495166182",
+    "https://openalex.org/W1802574002",
+    "https://openalex.org/W1964121777",
+    "https://openalex.org/W1965071252",
+    "https://openalex.org/W1969366572",
+    "https://openalex.org/W1971801942",
+    "https://openalex.org/W1972753010",
+    "https://openalex.org/W1977179045",
+    "https://openalex.org/W1982833228",
+    "https://openalex.org/W1985461110",
+    "https://openalex.org/W1986633060",
+    "https://openalex.org/W1990757909",
+    "https://openalex.org/W1992168639",
+    "https://openalex.org/W1999839467",
+    "https://openalex.org/W2005543791",
+    "https://openalex.org/W2018999951",
+    "https://openalex.org/W2024229755",
+    "https://openalex.org/W2030193055",
+    "https://openalex.org/W2031781971",
+    "https://openalex.org/W2036959910",
+    "https://openalex.org/W2044928246",
+    "https://openalex.org/W2048321002",
+    "https://openalex.org/W2053489483",
+    "https://openalex.org/W2056462932",
+    "https://openalex.org/W2064252921",
+    "https://openalex.org/W2071341647",
+    "https://openalex.org/W2079433581",
+    "https://openalex.org/W2087312216",
+    "https://openalex.org/W2091629327",
+    "https://openalex.org/W2093082279",
+    "https://openalex.org/W2102146683",
+    "https://openalex.org/W2107387928",
+    "https://openalex.org/W2108579114",
+    "https://openalex.org/W2112833823",
+    "https://openalex.org/W2116289631",
+    "https://openalex.org/W2118141325",
+    "https://openalex.org/W2128166004",
+    "https://openalex.org/W2128999719",
+    "https://openalex.org/W2146865086",
+    "https://openalex.org/W2150973554",
+    "https://openalex.org/W2168056473",
+    "https://openalex.org/W2176166968",
+    "https://openalex.org/W2192723508",
+    "https://openalex.org/W2195071417",
+    "https://openalex.org/W2211989409",
+    "https://openalex.org/W2237663443",
+    "https://openalex.org/W2326219755",
+    "https://openalex.org/W2412857991",
+    "https://openalex.org/W2507254725",
+    "https://openalex.org/W2551814827",
+    "https://openalex.org/W2563494429",
+    "https://openalex.org/W2607340069",
+    "https://openalex.org/W2608622909",
+    "https://openalex.org/W2612015400",
+    "https://openalex.org/W2613450006",
+    "https://openalex.org/W2734540391",
+    "https://openalex.org/W2753937826",
+    "https://openalex.org/W2754812457",
+    "https://openalex.org/W2762200378",
+    "https://openalex.org/W2769538070",
+    "https://openalex.org/W2771036474",
+    "https://openalex.org/W2787158099",
+    "https://openalex.org/W2801853197",
+    "https://openalex.org/W2801919052",
+    "https://openalex.org/W2802030535",
+    "https://openalex.org/W2803499747",
+    "https://openalex.org/W2815083947",
+    "https://openalex.org/W2838830137",
+    "https://openalex.org/W2884820961",
+    "https://openalex.org/W2899433742",
+    "https://openalex.org/W2901220507",
+    "https://openalex.org/W2901335962",
+    "https://openalex.org/W2903061871",
+    "https://openalex.org/W2905499843",
+    "https://openalex.org/W2913348902",
+    "https://openalex.org/W2914545522",
+    "https://openalex.org/W2919899673",
+    "https://openalex.org/W2921211326",
+    "https://openalex.org/W2922337031",
+    "https://openalex.org/W2923099616",
+    "https://openalex.org/W2945382930",
+    "https://openalex.org/W2959622527",
+    "https://openalex.org/W2960508570",
+    "https://openalex.org/W2961826167",
+    "https://openalex.org/W2963641255",
+    "https://openalex.org/W2966024039",
+    "https://openalex.org/W2967299926",
+    "https://openalex.org/W2989706251",
+    "https://openalex.org/W2990275309",
+    "https://openalex.org/W2995101923",
+    "https://openalex.org/W2996373692",
+    "https://openalex.org/W2996924095",
+    "https://openalex.org/W2999791864",
+    "https://openalex.org/W3000922837",
+    "https://openalex.org/W3005957464",
+    "https://openalex.org/W3006342923",
+    "https://openalex.org/W3022610797",
+    "https://openalex.org/W3042013568",
+    "https://openalex.org/W3047125413",
+    "https://openalex.org/W3047610946",
+    "https://openalex.org/W3089930184",
+    "https://openalex.org/W3092652956",
+    "https://openalex.org/W3095129446",
+    "https://openalex.org/W3109860230",
+    "https://openalex.org/W3116079107",
+    "https://openalex.org/W3121179899",
+    "https://openalex.org/W3126361789",
+    "https://openalex.org/W3162534014",
+    "https://openalex.org/W3171726680",
+    "https://openalex.org/W3185033129",
+    "https://openalex.org/W4212766078",
+    "https://openalex.org/W4220819279",
+    "https://openalex.org/W4220985210",
+    "https://openalex.org/W4221075111",
+    "https://openalex.org/W4223436134",
+    "https://openalex.org/W4225340806",
+    "https://openalex.org/W4229508150",
+    "https://openalex.org/W4280540675",
+    "https://openalex.org/W4284678736",
+    "https://openalex.org/W4295410766",
+    "https://openalex.org/W614733133"
+  ],
+  "related_works": [
+    "https://openalex.org/W4390485108",
+    "https://openalex.org/W4386439204",
+    "https://openalex.org/W4310640102",
+    "https://openalex.org/W4224925654",
+    "https://openalex.org/W4200022900",
+    "https://openalex.org/W3137399879",
+    "https://openalex.org/W2915946929",
+    "https://openalex.org/W2184533732",
+    "https://openalex.org/W2050956753",
+    "https://openalex.org/W1989463613"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [0],
+    "Kidney": [1],
+    "disease": [2, 18, 192],
+    "is": [3, 43, 60, 109],
+    "one": [4],
+    "of": [5, 9, 22, 89, 95, 181, 189],
+    "the": [6, 13, 23, 85, 87, 93, 148, 176, 187],
+    "leading": [7],
+    "causes": [8],
+    "morbidity": [10],
+    "worldwide,": [11],
+    "emphasizing": [12],
+    "importance": [14],
+    "for": [15, 112, 186],
+    "physiologically": [16],
+    "accurate": [17],
+    "models.": [19],
+    "With": [20],
+    "most": [21],
+    "approved": [24],
+    "renal": [25],
+    "drugs": [26],
+    "failing": [27],
+    "to": [28, 53, 61, 84, 124],
+    "perform": [29],
+    "as": [30, 36, 77, 119],
+    "well": [31],
+    "in": [32, 39, 68, 101, 135, 147],
+    "human": [33, 154, 190],
+    "clinical": [34],
+    "trials": [35],
+    "they": [37],
+    "did": [38],
+    "animal": [40],
+    "testing,": [41],
+    "it": [42],
+    "imperative": [44],
+    "that": [45],
+    "new": [46],
+    "and": [47, 72, 79, 98, 104, 144, 161, 178, 193],
+    "improved": [48],
+    "human-based": [49],
+    "models": [50, 106, 163, 169],
+    "are": [51],
+    "developed": [52],
+    "test": [54],
+    "these": [55, 102, 126],
+    "potential": [56, 121, 179],
+    "therapeutics.": [57],
+    "One": [58],
+    "option": [59],
+    "use": [62],
+    "patient": [63],
+    "derived": [64],
+    "cell": [65],
+    "lines,": [66],
+    "grown": [67, 134],
+    "both": [69],
+    "two-dimensional": [70],
+    "(2D)": [71],
+    "three-dimensional": [73],
+    "(3D)": [74],
+    "structures,": [75],
+    "known": [76],
+    "spheroids": [78],
+    "organoids.": [80],
+    "Despite": [81],
+    "their": [82],
+    "contributions": [83],
+    "field,": [86],
+    "lack": [88],
+    "physiological": [90],
+    "accuracy,": [91],
+    "including": [92, 141, 158],
+    "absence": [94],
+    "fluid": [96],
+    "flow,": [97],
+    "mechanistic": [99],
+    "effects": [100],
+    "2D": [103],
+    "3D": [105],
+    "means": [107],
+    "there": [108],
+    "still": [110],
+    "room": [111],
+    "improvement.": [113],
+    "Organ-on-a-chip": [114],
+    "(OOAC)": [115],
+    "technology": [116, 132],
+    "offers": [117],
+    "itself": [118],
+    "a": [120],
+    "candidate": [122],
+    "model": [123],
+    "overcome": [125],
+    "limitations.": [127],
+    "Over": [128],
+    "recent": [129],
+    "years": [130],
+    "OOAC": [131],
+    "has": [133],
+    "popularity,": [136],
+    "with": [137],
+    "multiple": [138],
+    "organ": [139],
+    "systems,": [140],
+    "lung,": [142],
+    "liver,": [143],
+    "kidney": [145, 191],
+    "described": [146],
+    "literature.": [149],
+    "In": [150],
+    "this": [151, 182],
+    "review,": [152],
+    "traditional": [153],
+    "cellular": [155],
+    "based": [156],
+    "models,": [157],
+    "monolayer,": [159],
+    "spheroid": [160],
+    "organoid": [162],
+    "will": [164, 170],
+    "be": [165, 172],
+    "discussed.": [166],
+    "Human": [167],
+    "kidney-on-a-chip": [168],
+    "also": [171],
+    "discussed,": [173],
+    "while": [174],
+    "exploring": [175],
+    "advantages": [177],
+    "limitations": [180],
+    "rapidly": [183],
+    "emerging": [184],
+    "field": [185],
+    "study": [188],
+    "drug": [194],
+    "testing.": [195]
+  },
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4321186873",
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2025-04-15T15:40:25.468556",
+  "created_date": "2023-02-18"
+}
