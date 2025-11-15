@@ -41,7 +41,5 @@
       "$ref": "sharedDefinitions#/definitions/industrialResearchLines"
     }
   },
-  "required": [
-    "code"
-  ]
+  "required": ["code"]
 }

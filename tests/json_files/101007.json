@@ -18,10 +18,7 @@
       "id": "https://openalex.org/S3892946",
       "display_name": "Microfluidics and Nanofluidics",
       "issn_l": "1613-4982",
-      "issn": [
-        "1613-4982",
-        "1613-4990"
-      ],
+      "issn": ["1613-4982", "1613-4990"],
       "is_oa": false,
       "is_in_doaj": false,
       "is_indexed_in_scopus": true,
@@ -46,9 +43,7 @@
   },
   "type": "article",
   "type_crossref": "journal-article",
-  "indexed_in": [
-    "crossref"
-  ],
+  "indexed_in": ["crossref"],
   "open_access": {
     "is_oa": true,
     "oa_status": "hybrid",
@@ -70,9 +65,7 @@
           "ror": "https://ror.org/027tbp210",
           "country_code": "GB",
           "type": "other",
-          "lineage": [
-            "https://openalex.org/I2802983449"
-          ]
+          "lineage": ["https://openalex.org/I2802983449"]
         },
         {
           "id": "https://openalex.org/I84884186",
@@ -80,14 +73,10 @@
           "ror": "https://ror.org/01kj2bm70",
           "country_code": "GB",
           "type": "funder",
-          "lineage": [
-            "https://openalex.org/I84884186"
-          ]
+          "lineage": ["https://openalex.org/I84884186"]
         }
       ],
-      "countries": [
-        "GB"
-      ],
+      "countries": ["GB"],
       "is_corresponding": true,
       "raw_author_name": "Rebecca Marie Dewhurst",
       "raw_affiliation_strings": [
@@ -117,9 +106,7 @@
           "ror": "https://ror.org/027tbp210",
           "country_code": "GB",
           "type": "other",
-          "lineage": [
-            "https://openalex.org/I2802983449"
-          ]
+          "lineage": ["https://openalex.org/I2802983449"]
         },
         {
           "id": "https://openalex.org/I84884186",
@@ -127,14 +114,10 @@
           "ror": "https://ror.org/01kj2bm70",
           "country_code": "GB",
           "type": "funder",
-          "lineage": [
-            "https://openalex.org/I84884186"
-          ]
+          "lineage": ["https://openalex.org/I84884186"]
         }
       ],
-      "countries": [
-        "GB"
-      ],
+      "countries": ["GB"],
       "is_corresponding": false,
       "raw_author_name": "Elisa Molinari",
       "raw_affiliation_strings": [
@@ -164,14 +147,10 @@
           "ror": "https://ror.org/05p40t847",
           "country_code": "GB",
           "type": "healthcare",
-          "lineage": [
-            "https://openalex.org/I2801663869"
-          ]
+          "lineage": ["https://openalex.org/I2801663869"]
         }
       ],
-      "countries": [
-        "GB"
-      ],
+      "countries": ["GB"],
       "is_corresponding": false,
       "raw_author_name": "John A. Sayer",
       "raw_affiliation_strings": [
@@ -180,9 +159,7 @@
       "affiliations": [
         {
           "raw_affiliation_string": "Renal Services, The Newcastle Upon Tyne Hospitals NHS Foundations Trust, Newcastle Upon Tyne, NE7 7DN, UK",
-          "institution_ids": [
-            "https://openalex.org/I2801663869"
-          ]
+          "institution_ids": ["https://openalex.org/I2801663869"]
         }
       ]
     }
@@ -190,9 +167,7 @@
   "institution_assertions": [],
   "countries_distinct_count": 1,
   "institutions_distinct_count": 3,
-  "corresponding_author_ids": [
-    "https://openalex.org/A5060171836"
-  ],
+  "corresponding_author_ids": ["https://openalex.org/A5060171836"],
   "corresponding_institution_ids": [
     "https://openalex.org/I2802983449",
     "https://openalex.org/I84884186"
@@ -466,10 +441,7 @@
         "id": "https://openalex.org/S3892946",
         "display_name": "Microfluidics and Nanofluidics",
         "issn_l": "1613-4982",
-        "issn": [
-          "1613-4982",
-          "1613-4990"
-        ],
+        "issn": ["1613-4982", "1613-4990"],
         "is_oa": false,
         "is_in_doaj": false,
         "is_indexed_in_scopus": true,
@@ -501,10 +473,7 @@
       "id": "https://openalex.org/S3892946",
       "display_name": "Microfluidics and Nanofluidics",
       "issn_l": "1613-4982",
-      "issn": [
-        "1613-4982",
-        "1613-4990"
-      ],
+      "issn": ["1613-4982", "1613-4990"],
       "is_oa": false,
       "is_in_doaj": false,
       "is_indexed_in_scopus": true,

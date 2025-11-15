@@ -1,5 +1,5 @@
-import sequelize from '#root/services/Sequelize.mjs';
 import { DataTypes } from 'sequelize';
+import sequelize from '#root/services/Sequelize.mjs';
 
 const Institute = sequelize.define(
   'Institute',

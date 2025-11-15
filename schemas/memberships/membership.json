@@ -12,9 +12,5 @@
       "type": "object"
     }
   },
-  "required": [
-    "parentResearchEntityId",
-    "childResearchEntityId",
-    "data"
-  ]
+  "required": ["parentResearchEntityId", "childResearchEntityId", "data"]
 }

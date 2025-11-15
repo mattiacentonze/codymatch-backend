@@ -20,22 +20,15 @@
       "id": "https://openalex.org/S41454044",
       "display_name": "Annals of Oncology",
       "issn_l": "0923-7534",
-      "issn": [
-        "0923-7534",
-        "1569-8041"
-      ],
+      "issn": ["0923-7534", "1569-8041"],
       "is_oa": false,
       "is_in_doaj": false,
       "is_indexed_in_scopus": true,
       "is_core": true,
       "host_organization": "https://openalex.org/P4310320990",
       "host_organization_name": "Elsevier BV",
-      "host_organization_lineage": [
-        "https://openalex.org/P4310320990"
-      ],
-      "host_organization_lineage_names": [
-        "Elsevier BV"
-      ],
+      "host_organization_lineage": ["https://openalex.org/P4310320990"],
+      "host_organization_lineage_names": ["Elsevier BV"],
       "type": "journal"
     },
     "license": "publisher-specific-oa",
@@ -46,10 +39,7 @@
   },
   "type": "article",
   "type_crossref": "journal-article",
-  "indexed_in": [
-    "crossref",
-    "pubmed"
-  ],
+  "indexed_in": ["crossref", "pubmed"],
   "open_access": {
     "is_oa": true,
     "oa_status": "bronze",
@@ -92,9 +82,7 @@
           "ror": "https://ror.org/04tfzc498",
           "country_code": "IT",
           "type": "healthcare",
-          "lineage": [
-            "https://openalex.org/I4210153126"
-          ]
+          "lineage": ["https://openalex.org/I4210153126"]
         },
         {
           "id": "https://openalex.org/I19630809",
@@ -109,9 +97,7 @@
           ]
         }
       ],
-      "countries": [
-        "IT"
-      ],
+      "countries": ["IT"],
       "is_corresponding": false,
       "raw_author_name": "I. Floriani",
       "raw_affiliation_strings": [
@@ -195,14 +181,10 @@
           "ror": "https://ror.org/04tfzc498",
           "country_code": "IT",
           "type": "healthcare",
-          "lineage": [
-            "https://openalex.org/I4210153126"
-          ]
+          "lineage": ["https://openalex.org/I4210153126"]
         }
       ],
-      "countries": [
-        "IT"
-      ],
+      "countries": ["IT"],
       "is_corresponding": false,
       "raw_author_name": "F. Galli",
       "raw_affiliation_strings": [
@@ -232,14 +214,10 @@
           "ror": "https://ror.org/00wjc7c48",
           "country_code": "IT",
           "type": "funder",
-          "lineage": [
-            "https://openalex.org/I189158943"
-          ]
+          "lineage": ["https://openalex.org/I189158943"]
         }
       ],
-      "countries": [
-        "IT"
-      ],
+      "countries": ["IT"],
       "is_corresponding": false,
       "raw_author_name": "M.T. Greco",
       "raw_affiliation_strings": [
@@ -248,9 +226,7 @@
       "affiliations": [
         {
           "raw_affiliation_string": "Department of Oncology, Unità di Ricerca nel Dolore e Cure Palliative; Department of Statistics, Università di Milano, Milan",
-          "institution_ids": [
-            "https://openalex.org/I189158943"
-          ]
+          "institution_ids": ["https://openalex.org/I189158943"]
         }
       ]
     },
@@ -274,9 +250,7 @@
           ]
         }
       ],
-      "countries": [
-        "IT"
-      ],
+      "countries": ["IT"],
       "is_corresponding": false,
       "raw_author_name": "A. Caraceni",
       "raw_affiliation_strings": [
@@ -285,9 +259,7 @@
       "affiliations": [
         {
           "raw_affiliation_string": "Palliative Care Complex Structure, Terapia del dolore e Riabilitazione, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy",
-          "institution_ids": [
-            "https://openalex.org/I4210156707"
-          ]
+          "institution_ids": ["https://openalex.org/I4210156707"]
         }
       ]
     },
@@ -305,14 +277,10 @@
           "ror": "https://ror.org/05xg72x27",
           "country_code": "NO",
           "type": "funder",
-          "lineage": [
-            "https://openalex.org/I204778367"
-          ]
+          "lineage": ["https://openalex.org/I204778367"]
         }
       ],
-      "countries": [
-        "NO"
-      ],
+      "countries": ["NO"],
       "is_corresponding": false,
       "raw_author_name": "S. Kaasa",
       "raw_affiliation_strings": [
@@ -321,9 +289,7 @@
       "affiliations": [
         {
           "raw_affiliation_string": "Department of Cancer Research and Molecular Medicine, Faculty of Medicine, Norwegian University of Science and Technology, Norway",
-          "institution_ids": [
-            "https://openalex.org/I204778367"
-          ]
+          "institution_ids": ["https://openalex.org/I204778367"]
         }
       ]
     },
@@ -347,9 +313,7 @@
           ]
         }
       ],
-      "countries": [
-        "IT"
-      ],
+      "countries": ["IT"],
       "is_corresponding": false,
       "raw_author_name": "T.A. Dragani",
       "raw_affiliation_strings": [
@@ -358,9 +322,7 @@
       "affiliations": [
         {
           "raw_affiliation_string": "S.S.D. Epidemiology, Genetics and Pharmacogenomics, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan",
-          "institution_ids": [
-            "https://openalex.org/I4210156707"
-          ]
+          "institution_ids": ["https://openalex.org/I4210156707"]
         }
       ]
     },
@@ -378,14 +340,10 @@
           "ror": "https://ror.org/03rjjzx12",
           "country_code": "IT",
           "type": "healthcare",
-          "lineage": [
-            "https://openalex.org/I4210135599"
-          ]
+          "lineage": ["https://openalex.org/I4210135599"]
         }
       ],
-      "countries": [
-        "IT"
-      ],
+      "countries": ["IT"],
       "is_corresponding": false,
       "raw_author_name": "G. Azzarello",
       "raw_affiliation_strings": [
@@ -394,9 +352,7 @@
       "affiliations": [
         {
           "raw_affiliation_string": "Department of Hematology and Oncology, Ospedale di U.O.C. di Oncologia Mirano–ASL 13 Regione Veneto, Mirano",
-          "institution_ids": [
-            "https://openalex.org/I4210135599"
-          ]
+          "institution_ids": ["https://openalex.org/I4210135599"]
         }
       ]
     },
@@ -414,14 +370,10 @@
           "ror": "https://ror.org/05bs6ak67",
           "country_code": "IT",
           "type": "healthcare",
-          "lineage": [
-            "https://openalex.org/I3018768319"
-          ]
+          "lineage": ["https://openalex.org/I3018768319"]
         }
       ],
-      "countries": [
-        "IT"
-      ],
+      "countries": ["IT"],
       "is_corresponding": false,
       "raw_author_name": "M. Luzzani",
       "raw_affiliation_strings": [
@@ -430,9 +382,7 @@
       "affiliations": [
         {
           "raw_affiliation_string": "Department of Orthogeriatrics, S.S.D. Cure Palliative, riabilitazione e stabilizzazione E.O. Ospedali Galliera, Genova",
-          "institution_ids": [
-            "https://openalex.org/I3018768319"
-          ]
+          "institution_ids": ["https://openalex.org/I3018768319"]
         }
       ]
     },
@@ -450,14 +400,10 @@
           "ror": "https://ror.org/03364yv75",
           "country_code": "IT",
           "type": "healthcare",
-          "lineage": [
-            "https://openalex.org/I4210136395"
-          ]
+          "lineage": ["https://openalex.org/I4210136395"]
         }
       ],
-      "countries": [
-        "IT"
-      ],
+      "countries": ["IT"],
       "is_corresponding": false,
       "raw_author_name": "L. Cavanna",
       "raw_affiliation_strings": [
@@ -466,9 +412,7 @@
       "affiliations": [
         {
           "raw_affiliation_string": "Oncology Unit, Ospedale di Piacenza, Piacenza",
-          "institution_ids": [
-            "https://openalex.org/I4210136395"
-          ]
+          "institution_ids": ["https://openalex.org/I4210136395"]
         }
       ]
     },
@@ -507,14 +451,10 @@
           "ror": "https://ror.org/037kzdg33",
           "country_code": "IT",
           "type": "healthcare",
-          "lineage": [
-            "https://openalex.org/I4210124251"
-          ]
+          "lineage": ["https://openalex.org/I4210124251"]
         }
       ],
-      "countries": [
-        "IT"
-      ],
+      "countries": ["IT"],
       "is_corresponding": false,
       "raw_author_name": "T. Gamucci",
       "raw_affiliation_strings": [
@@ -523,9 +463,7 @@
       "affiliations": [
         {
           "raw_affiliation_string": "UOC Medical Oncology, Ospedale SS Trinità, Sora",
-          "institution_ids": [
-            "https://openalex.org/I4210124251"
-          ]
+          "institution_ids": ["https://openalex.org/I4210124251"]
         }
       ]
     },
@@ -585,14 +523,10 @@
           "ror": "https://ror.org/017vkhg73",
           "country_code": "IT",
           "type": "healthcare",
-          "lineage": [
-            "https://openalex.org/I4210109879"
-          ]
+          "lineage": ["https://openalex.org/I4210109879"]
         }
       ],
-      "countries": [
-        "IT"
-      ],
+      "countries": ["IT"],
       "is_corresponding": false,
       "raw_author_name": "D. Valenti",
       "raw_affiliation_strings": [
@@ -601,9 +535,7 @@
       "affiliations": [
         {
           "raw_affiliation_string": "Palliative Care Unit, Azienda Ospedaliera Valtellina e Valchiavenna, Morbegno",
-          "institution_ids": [
-            "https://openalex.org/I4210109879"
-          ]
+          "institution_ids": ["https://openalex.org/I4210109879"]
         }
       ]
     },
@@ -621,14 +553,10 @@
           "ror": "https://ror.org/011cabk38",
           "country_code": "IT",
           "type": "healthcare",
-          "lineage": [
-            "https://openalex.org/I2800330116"
-          ]
+          "lineage": ["https://openalex.org/I2800330116"]
         }
       ],
-      "countries": [
-        "IT"
-      ],
+      "countries": ["IT"],
       "is_corresponding": false,
       "raw_author_name": "C. Reale",
       "raw_affiliation_strings": [
@@ -637,9 +565,7 @@
       "affiliations": [
         {
           "raw_affiliation_string": "Department of Cardiovascular Sciences, Respiratory, Nephrological, Anaesthetics and Geriatrics, Policlinico Universitario Umberto I, Rome",
-          "institution_ids": [
-            "https://openalex.org/I2800330116"
-          ]
+          "institution_ids": ["https://openalex.org/I2800330116"]
         }
       ]
     },
@@ -663,9 +589,7 @@
           ]
         }
       ],
-      "countries": [
-        "IT"
-      ],
+      "countries": ["IT"],
       "is_corresponding": false,
       "raw_author_name": "L. Pavesi",
       "raw_affiliation_strings": [
@@ -674,9 +598,7 @@
       "affiliations": [
         {
           "raw_affiliation_string": "Unit of Oncology, RCCS-Fondazione Salvatore Maugeri, Pavia",
-          "institution_ids": [
-            "https://openalex.org/I4210105320"
-          ]
+          "institution_ids": ["https://openalex.org/I4210105320"]
         }
       ]
     },
@@ -700,9 +622,7 @@
           ]
         }
       ],
-      "countries": [
-        "IT"
-      ],
+      "countries": ["IT"],
       "is_corresponding": false,
       "raw_author_name": "V. Iorno",
       "raw_affiliation_strings": [
@@ -711,9 +631,7 @@
       "affiliations": [
         {
           "raw_affiliation_string": "Centre for Pain Medicine M. TIENGO, Fondazione IRCCS Cà Granda Ospedale Maggiore Policlinico, Milan",
-          "institution_ids": [
-            "https://openalex.org/I2803066834"
-          ]
+          "institution_ids": ["https://openalex.org/I2803066834"]
         }
       ]
     },
@@ -731,14 +649,10 @@
           "ror": "https://ror.org/0560hqd63",
           "country_code": "IT",
           "type": "healthcare",
-          "lineage": [
-            "https://openalex.org/I4210140815"
-          ]
+          "lineage": ["https://openalex.org/I4210140815"]
         }
       ],
-      "countries": [
-        "IT"
-      ],
+      "countries": ["IT"],
       "is_corresponding": false,
       "raw_author_name": "C. Crispino",
       "raw_affiliation_strings": [
@@ -747,9 +661,7 @@
       "affiliations": [
         {
           "raw_affiliation_string": "UOSD Treatment of Lung Cancer Complications, AO Dei Colli Monaldi Cotugno CTO Ospedale Monaldi, Napoli",
-          "institution_ids": [
-            "https://openalex.org/I4210140815"
-          ]
+          "institution_ids": ["https://openalex.org/I4210140815"]
         }
       ]
     },
@@ -773,9 +685,7 @@
           ]
         }
       ],
-      "countries": [
-        "IT"
-      ],
+      "countries": ["IT"],
       "is_corresponding": false,
       "raw_author_name": "M. Pacchioni",
       "raw_affiliation_strings": [
@@ -784,9 +694,7 @@
       "affiliations": [
         {
           "raw_affiliation_string": "Department of Oncology, Ospedale San Raffaele IRCCS, Milan",
-          "institution_ids": [
-            "https://openalex.org/I4210133214"
-          ]
+          "institution_ids": ["https://openalex.org/I4210133214"]
         }
       ]
     },
@@ -810,9 +718,7 @@
           ]
         }
       ],
-      "countries": [
-        "IT"
-      ],
+      "countries": ["IT"],
       "is_corresponding": false,
       "raw_author_name": "G. Apolone",
       "raw_affiliation_strings": [
@@ -821,9 +727,7 @@
       "affiliations": [
         {
           "raw_affiliation_string": "Scientific Direction, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy",
-          "institution_ids": [
-            "https://openalex.org/I4210156707"
-          ]
+          "institution_ids": ["https://openalex.org/I4210156707"]
         }
       ]
     },
@@ -847,9 +751,7 @@
           ]
         }
       ],
-      "countries": [
-        "IT"
-      ],
+      "countries": ["IT"],
       "is_corresponding": false,
       "raw_author_name": "M. Monfredo",
       "raw_affiliation_strings": [
@@ -858,9 +760,7 @@
       "affiliations": [
         {
           "raw_affiliation_string": "Department of Oncology, Ospedale San Raffaele IRCCS, Milan",
-          "institution_ids": [
-            "https://openalex.org/I4210133214"
-          ]
+          "institution_ids": ["https://openalex.org/I4210133214"]
         }
       ]
     },
@@ -898,9 +798,7 @@
           ]
         }
       ],
-      "countries": [
-        "IT"
-      ],
+      "countries": ["IT"],
       "is_corresponding": false,
       "raw_author_name": "P.O. di Salemi",
       "raw_affiliation_strings": [
@@ -909,9 +807,7 @@
       "affiliations": [
         {
           "raw_affiliation_string": "Scientific Direction, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy",
-          "institution_ids": [
-            "https://openalex.org/I4210156707"
-          ]
+          "institution_ids": ["https://openalex.org/I4210156707"]
         }
       ]
     },
@@ -963,9 +859,7 @@
           ]
         }
       ],
-      "countries": [
-        "IT"
-      ],
+      "countries": ["IT"],
       "is_corresponding": false,
       "raw_author_name": "G.A. Brunetti",
       "raw_affiliation_strings": [
@@ -974,9 +868,7 @@
       "affiliations": [
         {
           "raw_affiliation_string": "Scientific Direction, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy",
-          "institution_ids": [
-            "https://openalex.org/I4210156707"
-          ]
+          "institution_ids": ["https://openalex.org/I4210156707"]
         }
       ]
     },
@@ -1042,9 +934,7 @@
           ]
         }
       ],
-      "countries": [
-        "IT"
-      ],
+      "countries": ["IT"],
       "is_corresponding": false,
       "raw_author_name": "M. Pizzuto",
       "raw_affiliation_strings": [
@@ -1053,9 +943,7 @@
       "affiliations": [
         {
           "raw_affiliation_string": "Department of Oncology, Ospedale San Raffaele IRCCS, Milan",
-          "institution_ids": [
-            "https://openalex.org/I4210133214"
-          ]
+          "institution_ids": ["https://openalex.org/I4210133214"]
         }
       ]
     },
@@ -1093,9 +981,7 @@
           ]
         }
       ],
-      "countries": [
-        "IT"
-      ],
+      "countries": ["IT"],
       "is_corresponding": false,
       "raw_author_name": "M. Luzi",
       "raw_affiliation_strings": [
@@ -1104,9 +990,7 @@
       "affiliations": [
         {
           "raw_affiliation_string": "Department of Oncology, Ospedale San Raffaele IRCCS, Milan",
-          "institution_ids": [
-            "https://openalex.org/I4210133214"
-          ]
+          "institution_ids": ["https://openalex.org/I4210133214"]
         }
       ]
     },
@@ -1158,9 +1042,7 @@
           ]
         }
       ],
-      "countries": [
-        "IT"
-      ],
+      "countries": ["IT"],
       "is_corresponding": false,
       "raw_author_name": "M. Mangiapia",
       "raw_affiliation_strings": [
@@ -1169,9 +1051,7 @@
       "affiliations": [
         {
           "raw_affiliation_string": "Department of Oncology, Ospedale San Raffaele IRCCS, Milan",
-          "institution_ids": [
-            "https://openalex.org/I4210133214"
-          ]
+          "institution_ids": ["https://openalex.org/I4210133214"]
         }
       ]
     },
@@ -1209,9 +1089,7 @@
           ]
         }
       ],
-      "countries": [
-        "IT"
-      ],
+      "countries": ["IT"],
       "is_corresponding": false,
       "raw_author_name": "M. Lazzari",
       "raw_affiliation_strings": [
@@ -1220,9 +1098,7 @@
       "affiliations": [
         {
           "raw_affiliation_string": "Department of Oncology, Ospedale San Raffaele IRCCS, Milan",
-          "institution_ids": [
-            "https://openalex.org/I4210133214"
-          ]
+          "institution_ids": ["https://openalex.org/I4210133214"]
         }
       ]
     },
@@ -1246,9 +1122,7 @@
           ]
         }
       ],
-      "countries": [
-        "IT"
-      ],
+      "countries": ["IT"],
       "is_corresponding": false,
       "raw_author_name": "M. Dauri",
       "raw_affiliation_strings": [
@@ -1257,9 +1131,7 @@
       "affiliations": [
         {
           "raw_affiliation_string": "Department of Oncology, Ospedale San Raffaele IRCCS, Milan",
-          "institution_ids": [
-            "https://openalex.org/I4210133214"
-          ]
+          "institution_ids": ["https://openalex.org/I4210133214"]
         }
       ]
     },
@@ -1283,9 +1155,7 @@
           ]
         }
       ],
-      "countries": [
-        "IT"
-      ],
+      "countries": ["IT"],
       "is_corresponding": false,
       "raw_author_name": "M. Diodati",
       "raw_affiliation_strings": [
@@ -1294,9 +1164,7 @@
       "affiliations": [
         {
           "raw_affiliation_string": "Department of Oncology, Ospedale San Raffaele IRCCS, Milan",
-          "institution_ids": [
-            "https://openalex.org/I4210133214"
-          ]
+          "institution_ids": ["https://openalex.org/I4210133214"]
         }
       ]
     },
@@ -1384,14 +1252,10 @@
           "ror": "https://ror.org/00wjc7c48",
           "country_code": "IT",
           "type": "funder",
-          "lineage": [
-            "https://openalex.org/I189158943"
-          ]
+          "lineage": ["https://openalex.org/I189158943"]
         }
       ],
-      "countries": [
-        "IT"
-      ],
+      "countries": ["IT"],
       "is_corresponding": false,
       "raw_author_name": "M.T. Roy",
       "raw_affiliation_strings": [
@@ -1400,9 +1264,7 @@
       "affiliations": [
         {
           "raw_affiliation_string": "Department of Oncology, Unità di Ricerca nel Dolore e Cure Palliative; Department of Statistics, Università di Milano, Milan",
-          "institution_ids": [
-            "https://openalex.org/I189158943"
-          ]
+          "institution_ids": ["https://openalex.org/I189158943"]
         }
       ]
     },
@@ -1475,9 +1337,7 @@
           ]
         }
       ],
-      "countries": [
-        "IT"
-      ],
+      "countries": ["IT"],
       "is_corresponding": false,
       "raw_author_name": "V. Reina",
       "raw_affiliation_strings": [
@@ -1486,9 +1346,7 @@
       "affiliations": [
         {
           "raw_affiliation_string": "Centre for Pain Medicine M. TIENGO, Fondazione IRCCS Cà Granda Ospedale Maggiore Policlinico, Milan",
-          "institution_ids": [
-            "https://openalex.org/I2803066834"
-          ]
+          "institution_ids": ["https://openalex.org/I2803066834"]
         }
       ]
     },
@@ -2004,22 +1862,15 @@
         "id": "https://openalex.org/S41454044",
         "display_name": "Annals of Oncology",
         "issn_l": "0923-7534",
-        "issn": [
-          "0923-7534",
-          "1569-8041"
-        ],
+        "issn": ["0923-7534", "1569-8041"],
         "is_oa": false,
         "is_in_doaj": false,
         "is_indexed_in_scopus": true,
         "is_core": true,
         "host_organization": "https://openalex.org/P4310320990",
         "host_organization_name": "Elsevier BV",
-        "host_organization_lineage": [
-          "https://openalex.org/P4310320990"
-        ],
-        "host_organization_lineage_names": [
-          "Elsevier BV"
-        ],
+        "host_organization_lineage": ["https://openalex.org/P4310320990"],
+        "host_organization_lineage_names": ["Elsevier BV"],
         "type": "journal"
       },
       "license": "publisher-specific-oa",
@@ -2043,12 +1894,8 @@
         "is_core": false,
         "host_organization": "https://openalex.org/I189158943",
         "host_organization_name": "University of Milan",
-        "host_organization_lineage": [
-          "https://openalex.org/I189158943"
-        ],
-        "host_organization_lineage_names": [
-          "University of Milan"
-        ],
+        "host_organization_lineage": ["https://openalex.org/I189158943"],
+        "host_organization_lineage_names": ["University of Milan"],
         "type": "repository"
       },
       "license": "other-oa",
@@ -2072,12 +1919,8 @@
         "is_core": false,
         "host_organization": "https://openalex.org/I1299303238",
         "host_organization_name": "National Institutes of Health",
-        "host_organization_lineage": [
-          "https://openalex.org/I1299303238"
-        ],
-        "host_organization_lineage_names": [
-          "National Institutes of Health"
-        ],
+        "host_organization_lineage": ["https://openalex.org/I1299303238"],
+        "host_organization_lineage_names": ["National Institutes of Health"],
         "type": "repository"
       },
       "license": null,
@@ -2095,22 +1938,15 @@
       "id": "https://openalex.org/S41454044",
       "display_name": "Annals of Oncology",
       "issn_l": "0923-7534",
-      "issn": [
-        "0923-7534",
-        "1569-8041"
-      ],
+      "issn": ["0923-7534", "1569-8041"],
       "is_oa": false,
       "is_in_doaj": false,
       "is_indexed_in_scopus": true,
       "is_core": true,
       "host_organization": "https://openalex.org/P4310320990",
       "host_organization_name": "Elsevier BV",
-      "host_organization_lineage": [
-        "https://openalex.org/P4310320990"
-      ],
-      "host_organization_lineage_names": [
-        "Elsevier BV"
-      ],
+      "host_organization_lineage": ["https://openalex.org/P4310320990"],
+      "host_organization_lineage_names": ["Elsevier BV"],
       "type": "journal"
     },
     "license": "publisher-specific-oa",

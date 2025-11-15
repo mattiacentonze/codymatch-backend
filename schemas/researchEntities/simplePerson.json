@@ -13,8 +13,5 @@
       "format": "email"
     }
   },
-  "required": [
-    "name",
-    "surname"
-  ]
+  "required": ["name", "surname"]
 }

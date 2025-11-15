@@ -55,11 +55,7 @@
       "type": "number"
     },
     "instituteRole": {
-      "enum": [
-        "partner",
-        "coordinator",
-        "third party"
-      ]
+      "enum": ["partner", "coordinator", "third party"]
     },
     "partnersNumber": {
       "type": "integer"
@@ -94,14 +90,9 @@
             "type": "string"
           }
         },
-        "required": [
-          "name",
-          "image"
-        ]
+        "required": ["name", "image"]
       }
     }
   },
-  "required": [
-    "code"
-  ]
+  "required": ["code"]
 }

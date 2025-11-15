@@ -11,12 +11,15 @@
       "default": false
     },
     "lastSynchronisation": {
-      "oneOf": [{
-        "type": "string",
-        "format": "date-time"
-      }, {
-        "type": "null"
-      }]
+      "oneOf": [
+        {
+          "type": "string",
+          "format": "date-time"
+        },
+        {
+          "type": "null"
+        }
+      ]
     }
   }
 }

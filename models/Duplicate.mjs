@@ -1,11 +1,11 @@
 import { DataTypes, Op, QueryTypes } from 'sequelize';
-import sequelize from '#root/services/Sequelize.mjs';
 import ResearchEntity from '#root/models/ResearchEntity.mjs';
 import ResearchItem from '#root/models/ResearchItem.mjs';
 import ResearchItemType from '#root/models/ResearchItemType.mjs';
 import Role from '#root/models/Role.mjs';
 import UserAccount from '#root/models/UserAccount.mjs';
 import UserAccountRole from '#root/models/UserAccountRole.mjs';
+import sequelize from '#root/services/Sequelize.mjs';
 
 const Duplicate = sequelize.define(
   'Duplicate',
@@ -374,7 +374,7 @@ Duplicate.setDuplicatesFalse = async function (
         success: true,
         message: `Duplicate with ID ${duplicateId} updated successfully`,
       });
-    } catch (error) {
+    } catch (_error) {
       result.success = false;
       result.updates.push({
         duplicateId,

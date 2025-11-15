@@ -1,13 +1,13 @@
-import { describe, it, expect, vi, beforeEach, beforeAll } from 'vitest';
 import request from 'supertest';
+import { beforeAll, beforeEach, describe, expect, it, vi } from 'vitest';
+import app from '#root/app_initial.mjs';
+import sequelize from '#root/services/Sequelize.mjs';
 import {
   login,
   logout,
   setupTestData,
   truncateAllTables,
 } from './utils/testUtils.mjs';
-import sequelize from '#root/services/Sequelize.mjs';
-import app from '#root/app_initial.mjs';
 
 let username = 'testuser1@.it';
 
@@ -37,9 +37,7 @@ describe('Authentication: login and logout', () => {
     const { cookie } = await login(app, username);
     expect(cookie).toBeDefined();
     const client = request(app);
-    const response = await client
-      .get('/login')
-      .set('Cookie', cookie);
+    const response = await client.get('/login').set('Cookie', cookie);
     expect(response.status).toBe(400);
     expect(response.text).toContain('Authorization code is missing');
   });

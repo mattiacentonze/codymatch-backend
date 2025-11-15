@@ -8,7 +8,8 @@
           "oneOf": [
             {
               "type": "null"
-            }, {
+            },
+            {
               "type": "string",
               "format": "email"
             }
@@ -21,7 +22,8 @@
           "oneOf": [
             {
               "type": "null"
-            }, {
+            },
+            {
               "type": "string"
             }
           ]
@@ -30,7 +32,8 @@
           "oneOf": [
             {
               "type": "null"
-            }, {
+            },
+            {
               "type": "string"
             }
           ]
@@ -39,7 +42,8 @@
           "oneOf": [
             {
               "type": "null"
-            }, {
+            },
+            {
               "type": "string"
             }
           ]
@@ -48,7 +52,8 @@
           "oneOf": [
             {
               "type": "null"
-            }, {
+            },
+            {
               "type": "string",
               "format": "date"
             }
@@ -82,7 +87,8 @@
           "oneOf": [
             {
               "type": "null"
-            }, {
+            },
+            {
               "type": "string",
               "format": "date"
             }
@@ -157,7 +163,12 @@
                 "type": "object",
                 "properties": {
                   "type": {
-                    "enum": ["Research Line", "Facility", "Directorate", "Institute"]
+                    "enum": [
+                      "Research Line",
+                      "Facility",
+                      "Directorate",
+                      "Institute"
+                    ]
                   },
                   "center": {
                     "allOf": [
@@ -187,70 +198,90 @@
               "allOf": [
                 { "$ref": "sharedDefinitions#/definitions/urlValue" },
                 { "$ref": "sharedDefinitions#/definitions/privacy" },
-                { "$ref": "sharedDefinitions#/definitions/privacyDefaultHidden" }
+                {
+                  "$ref": "sharedDefinitions#/definitions/privacyDefaultHidden"
+                }
               ]
             },
             "twitter": {
               "allOf": [
                 { "$ref": "sharedDefinitions#/definitions/urlValue" },
                 { "$ref": "sharedDefinitions#/definitions/privacy" },
-                { "$ref": "sharedDefinitions#/definitions/privacyDefaultHidden" }
+                {
+                  "$ref": "sharedDefinitions#/definitions/privacyDefaultHidden"
+                }
               ]
             },
             "facebook": {
               "allOf": [
                 { "$ref": "sharedDefinitions#/definitions/urlValue" },
                 { "$ref": "sharedDefinitions#/definitions/privacy" },
-                { "$ref": "sharedDefinitions#/definitions/privacyDefaultHidden" }
+                {
+                  "$ref": "sharedDefinitions#/definitions/privacyDefaultHidden"
+                }
               ]
             },
             "instagram": {
               "allOf": [
                 { "$ref": "sharedDefinitions#/definitions/urlValue" },
                 { "$ref": "sharedDefinitions#/definitions/privacy" },
-                { "$ref": "sharedDefinitions#/definitions/privacyDefaultHidden" }
+                {
+                  "$ref": "sharedDefinitions#/definitions/privacyDefaultHidden"
+                }
               ]
             },
             "researchgate": {
               "allOf": [
                 { "$ref": "sharedDefinitions#/definitions/urlValue" },
                 { "$ref": "sharedDefinitions#/definitions/privacy" },
-                { "$ref": "sharedDefinitions#/definitions/privacyDefaultHidden" }
+                {
+                  "$ref": "sharedDefinitions#/definitions/privacyDefaultHidden"
+                }
               ]
             },
             "googleScholar": {
               "allOf": [
                 { "$ref": "sharedDefinitions#/definitions/urlValue" },
                 { "$ref": "sharedDefinitions#/definitions/privacy" },
-                { "$ref": "sharedDefinitions#/definitions/privacyDefaultHidden" }
+                {
+                  "$ref": "sharedDefinitions#/definitions/privacyDefaultHidden"
+                }
               ]
             },
             "github": {
               "allOf": [
                 { "$ref": "sharedDefinitions#/definitions/urlValue" },
                 { "$ref": "sharedDefinitions#/definitions/privacy" },
-                { "$ref": "sharedDefinitions#/definitions/privacyDefaultHidden" }
+                {
+                  "$ref": "sharedDefinitions#/definitions/privacyDefaultHidden"
+                }
               ]
             },
             "bitbucket": {
               "allOf": [
                 { "$ref": "sharedDefinitions#/definitions/urlValue" },
                 { "$ref": "sharedDefinitions#/definitions/privacy" },
-                { "$ref": "sharedDefinitions#/definitions/privacyDefaultHidden" }
+                {
+                  "$ref": "sharedDefinitions#/definitions/privacyDefaultHidden"
+                }
               ]
             },
             "youtube": {
               "allOf": [
                 { "$ref": "sharedDefinitions#/definitions/urlValue" },
                 { "$ref": "sharedDefinitions#/definitions/privacy" },
-                { "$ref": "sharedDefinitions#/definitions/privacyDefaultHidden" }
+                {
+                  "$ref": "sharedDefinitions#/definitions/privacyDefaultHidden"
+                }
               ]
             },
             "flickr": {
               "allOf": [
                 { "$ref": "sharedDefinitions#/definitions/urlValue" },
                 { "$ref": "sharedDefinitions#/definitions/privacy" },
-                { "$ref": "sharedDefinitions#/definitions/privacyDefaultHidden" }
+                {
+                  "$ref": "sharedDefinitions#/definitions/privacyDefaultHidden"
+                }
               ]
             }
           }
@@ -380,7 +411,9 @@
           "type": "boolean",
           "default": false
         },
-        "publicWebsite": { "$ref": "sharedDefinitions#/definitions/publicWebsite" },
+        "publicWebsite": {
+          "$ref": "sharedDefinitions#/definitions/publicWebsite"
+        },
         "export": { "$ref": "sharedDefinitions#/definitions/export" },
         "experiencesInternal": {
           "type": "array",

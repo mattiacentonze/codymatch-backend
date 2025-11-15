@@ -12,7 +12,8 @@
       "oneOf": [
         {
           "type": "null"
-        }, {
+        },
+        {
           "type": "string"
         }
       ]
@@ -21,7 +22,8 @@
       "oneOf": [
         {
           "type": "null"
-        }, {
+        },
+        {
           "type": "string"
         }
       ]
@@ -140,10 +142,5 @@
       ]
     }
   },
-  "required": [
-    "name",
-    "slug",
-    "type",
-    "code"
-  ]
+  "required": ["name", "slug", "type", "code"]
 }

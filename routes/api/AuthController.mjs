@@ -1,17 +1,18 @@
 import express from 'express';
-// import jwt from 'jsonwebtoken';
-// import logger from '#root/services/Logger.mjs';
-// import {
-  // getLogoutUrl,
+import {
+  getLogoutUrl,
   // getTokens,
   // getRedirectUrl,
-// } from '#root/services/Authentication.mjs';
+} from '#root/services/Authentication.mjs';
+// import jwt from 'jsonwebtoken';
+import logger from '#root/services/Logger.mjs';
+
 // import { getUserInfo } from '#root/services/Session.mjs';
 // import UserAccount from '#root/models/UserAccount.mjs';
-
+//
 const router = express.Router();
 router.get('/login', async (_req, res) => {
-    res.redirect('/?login=done');
+  res.redirect('/?login=done');
 });
 
 router.get('/logout', async (req, res) => {

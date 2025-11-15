@@ -1,8 +1,8 @@
 import express from 'express';
 import _ from 'lodash';
-import { isLoggedIn } from '#root/services/Policy.mjs';
 import config from '#root/config/config.mjs';
 import logger from '#root/services/Logger.mjs';
+import { isLoggedIn } from '#root/services/Policy.mjs';
 
 const router = express.Router();
 
@@ -11,8 +11,7 @@ function buildArgArray(argsSpec, body) {
   if (!argsSpec?.length) return [];
   return argsSpec.map((spec) => {
     const name = _.isString(spec) ? spec : spec.name;
-    if (Object.prototype.hasOwnProperty.call(body || {}, name))
-      return body[name];
+    if (Object.hasOwn(body || {}, name)) return body[name];
     if (_.isObject(spec) && 'default' in spec) return spec.default;
     throw new Error(`Missing param: ${name}`);
   });

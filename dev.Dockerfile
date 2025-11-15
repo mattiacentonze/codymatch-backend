@@ -29,7 +29,7 @@ RUN set -eux; \
 
 WORKDIR /usr/app
 RUN chown ${USERID}:${GROUPID} /usr/app
-COPY --chown=${USERID}:${GROUPID} --exclude=*.custom.* . /usr/app
+COPY --chown=${USERID}:${GROUPID} . /usr/app
 
 USER ${USERID}:${GROUPID}
 CMD ["/usr/app/startup.sh"]

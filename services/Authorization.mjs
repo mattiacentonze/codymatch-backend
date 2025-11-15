@@ -1,11 +1,11 @@
 import _ from 'lodash';
-import UserAccountPermission from '#root/models/UserAccountPermission.mjs';
 import Permission from '#root/models/Permission.mjs';
-import UserAccount from '#root/models/UserAccount.mjs';
 import ResearchEntity from '#root/models/ResearchEntity.mjs';
-import UserAccountRole from '#root/models/UserAccountRole.mjs';
 import Role from '#root/models/Role.mjs';
 import RolePermission from '#root/models/RolePermission.mjs';
+import UserAccount from '#root/models/UserAccount.mjs';
+import UserAccountPermission from '#root/models/UserAccountPermission.mjs';
+import UserAccountRole from '#root/models/UserAccountRole.mjs';
 
 export let PERMISSIONS = {};
 
@@ -160,7 +160,7 @@ export async function getUserPermissions(userAccountId, transaction) {
     where: { id: [...permissionResearchEntities, ...roleResearchEntities] },
   });
 
-  const researchEntities = researchEntityIds.map((re) => ({
+  const _researchEntities = researchEntityIds.map((re) => ({
     id: re.id,
     type: re.type,
     code: re.code,

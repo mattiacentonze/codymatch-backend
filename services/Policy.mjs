@@ -1,27 +1,23 @@
-import _ from 'lodash';
 import bcrypt from 'bcrypt';
 import jwt from 'jsonwebtoken';
-
-import logger from '#root/services/Logger.mjs';
-import * as auth from '#root/services/Authentication.mjs';
+import _ from 'lodash';
 import BearerToken from '#root/models/BearerToken.mjs';
+import * as auth from '#root/services/Authentication.mjs';
 import { PERMISSIONS } from '#root/services/Authorization.mjs';
+import logger from '#root/services/Logger.mjs';
 
 export async function isLoggedIn(req, res, next) {
   // const t = req.session?.token;
   // const rt = req.session?.refresh_token;
-
   // if (!t)
   //   return res
   //     .status(401)
   //     .json({ code: 401, message: 'Must be logged in to access this route' });
-
   // const decodedToken = jwt.decode(t, { complete: true });
   // if (!decodedToken)
   //   return res
   //     .status(401)
   //     .json({ code: 401, message: 'Must be logged in to access this route' });
-
   // if (Date.now() >= decodedToken.payload.exp * 1000) {
   //   const response = await auth.getTokens({ token: rt }, true);
   //   if (!response?.ok)
@@ -31,7 +27,6 @@ export async function isLoggedIn(req, res, next) {
   //   req.session.token = response.access_token;
   //   req.session.refresh_token = response.refresh_token;
   // }
-
   // const kid = decodedToken.header.kid;
   // const publicKey = await auth.getPublicKey(kid);
   // jwt.verify(req.session.token, publicKey, {}, (err) => {
@@ -43,7 +38,7 @@ export async function isLoggedIn(req, res, next) {
   // });
 }
 
-function normalizeEntityIds(body, params) {
+function _normalizeEntityIds(body, params) {
   if (params.researchEntityId) return [+params.researchEntityId];
   if (Array.isArray(body.researchEntitiesIds))
     return body.researchEntitiesIds.map((rid) => +rid);
@@ -61,7 +56,7 @@ function permissionChainKeys(permissionKey) {
   return keys; // es: ['settings_read', 'research_entity_read', 'all_read']
 }
 
-function hasPermissionForAllEntities(
+function _hasPermissionForAllEntities(
   userPermissions,
   permissionKey,
   entityIds = []
@@ -142,19 +137,15 @@ export function isAdmin(req, res, next) {
 
 export async function hasToken(req, res, next) {
   // const accessToken = req.get('Authorization');
-
   // if (!accessToken || !accessToken.toLocaleLowerCase().startsWith('bearer '))
   //   return res
   //     .status(403)
   //     .json({ code: 403, message: 'Bearer token not found' });
-
   // const tokenValue = accessToken.split(' ')[1];
-
   // try {
   //   const tokenRecords = await BearerToken.findAll({
   //     where: { active: true },
   //   });
-
   //   for (const tokenRecord of tokenRecords) {
   //     const isMatch = await bcrypt.compare(tokenValue, tokenRecord.token);
   //     if (isMatch) {

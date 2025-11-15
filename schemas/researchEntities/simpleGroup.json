@@ -16,9 +16,5 @@
       "default": true
     }
   },
-  "required": [
-    "name",
-    "type",
-    "code"
-  ]
+  "required": ["name", "type", "code"]
 }

@@ -1,7 +1,7 @@
 import express from 'express';
-import { hasToken } from '#root/services/Policy.mjs';
 import cronService from '#root/services/Cron.mjs';
 import logger from '#root/services/Logger.mjs';
+import { hasToken } from '#root/services/Policy.mjs';
 
 const router = express.Router();
 
@@ -37,7 +37,7 @@ async function getJobs(res) {
       enabled: job.running,
     }));
     res.json({ jobs });
-  } catch (error) {
+  } catch (_error) {
     res.status(500).json({ message: 'Failed to retrieve active cron jobs' });
   }
 }

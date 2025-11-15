@@ -4,15 +4,27 @@
     "userProfile": {
       "type": "object",
       "properties": {
-        "username": { "$ref": "sharedDefinitions#/definitions/ifValueCheckHiddenPrivacy" },
-        "name": { "$ref": "sharedDefinitions#/definitions/ifValueCheckHiddenPrivacy" },
-        "surname": { "$ref": "sharedDefinitions#/definitions/ifValueCheckHiddenPrivacy" },
-        "jobTitle": { "$ref": "sharedDefinitions#/definitions/ifValueCheckHiddenPrivacy" },
+        "username": {
+          "$ref": "sharedDefinitions#/definitions/ifValueCheckHiddenPrivacy"
+        },
+        "name": {
+          "$ref": "sharedDefinitions#/definitions/ifValueCheckHiddenPrivacy"
+        },
+        "surname": {
+          "$ref": "sharedDefinitions#/definitions/ifValueCheckHiddenPrivacy"
+        },
+        "jobTitle": {
+          "$ref": "sharedDefinitions#/definitions/ifValueCheckHiddenPrivacy"
+        },
         "roleCategory": {
           "$ref": "sharedDefinitions#/definitions/ifValueCheckHiddenPrivacy"
         },
-        "phone": { "$ref": "sharedDefinitions#/definitions/ifValueCheckHiddenPrivacy" },
-        "gender": { "$ref": "sharedDefinitions#/definitions/ifValueCheckHiddenPrivacy" },
+        "phone": {
+          "$ref": "sharedDefinitions#/definitions/ifValueCheckHiddenPrivacy"
+        },
+        "gender": {
+          "$ref": "sharedDefinitions#/definitions/ifValueCheckHiddenPrivacy"
+        },
         "nationality": {
           "$ref": "sharedDefinitions#/definitions/ifValueCheckHiddenPrivacy"
         },
@@ -21,7 +33,9 @@
         },
         "groups": {
           "type": "array",
-          "items": { "$ref": "sharedDefinitions#/definitions/ifNameCheckHiddenPrivacy" }
+          "items": {
+            "$ref": "sharedDefinitions#/definitions/ifNameCheckHiddenPrivacy"
+          }
         },
         "image": {
           "oneOf": [
@@ -77,68 +91,90 @@
             "linkedin": {
               "oneOf": [
                 { "$ref": "sharedDefinitions#/definitions/privacyEnumHidden" },
-                { "$ref": "sharedDefinitions#/definitions/privacyEnumInvisible" }
+                {
+                  "$ref": "sharedDefinitions#/definitions/privacyEnumInvisible"
+                }
               ]
             },
             "twitter": {
               "oneOf": [
                 { "$ref": "sharedDefinitions#/definitions/privacyEnumHidden" },
-                { "$ref": "sharedDefinitions#/definitions/privacyEnumInvisible" }
+                {
+                  "$ref": "sharedDefinitions#/definitions/privacyEnumInvisible"
+                }
               ]
             },
             "facebook": {
               "oneOf": [
                 { "$ref": "sharedDefinitions#/definitions/privacyEnumHidden" },
-                { "$ref": "sharedDefinitions#/definitions/privacyEnumInvisible" }
+                {
+                  "$ref": "sharedDefinitions#/definitions/privacyEnumInvisible"
+                }
               ]
             },
             "instagram": {
               "oneOf": [
                 { "$ref": "sharedDefinitions#/definitions/privacyEnumHidden" },
-                { "$ref": "sharedDefinitions#/definitions/privacyEnumInvisible" }
+                {
+                  "$ref": "sharedDefinitions#/definitions/privacyEnumInvisible"
+                }
               ]
             },
             "researchgate": {
               "oneOf": [
                 { "$ref": "sharedDefinitions#/definitions/privacyEnumHidden" },
-                { "$ref": "sharedDefinitions#/definitions/privacyEnumInvisible" }
+                {
+                  "$ref": "sharedDefinitions#/definitions/privacyEnumInvisible"
+                }
               ]
             },
             "github": {
               "oneOf": [
                 { "$ref": "sharedDefinitions#/definitions/privacyEnumHidden" },
-                { "$ref": "sharedDefinitions#/definitions/privacyEnumInvisible" }
+                {
+                  "$ref": "sharedDefinitions#/definitions/privacyEnumInvisible"
+                }
               ]
             },
             "bitbucket": {
               "oneOf": [
                 { "$ref": "sharedDefinitions#/definitions/privacyEnumHidden" },
-                { "$ref": "sharedDefinitions#/definitions/privacyEnumInvisible" }
+                {
+                  "$ref": "sharedDefinitions#/definitions/privacyEnumInvisible"
+                }
               ]
             },
             "youtube": {
               "oneOf": [
                 { "$ref": "sharedDefinitions#/definitions/privacyEnumHidden" },
-                { "$ref": "sharedDefinitions#/definitions/privacyEnumInvisible" }
+                {
+                  "$ref": "sharedDefinitions#/definitions/privacyEnumInvisible"
+                }
               ]
             },
             "flickr": {
               "oneOf": [
                 { "$ref": "sharedDefinitions#/definitions/privacyEnumHidden" },
-                { "$ref": "sharedDefinitions#/definitions/privacyEnumInvisible" }
+                {
+                  "$ref": "sharedDefinitions#/definitions/privacyEnumInvisible"
+                }
               ]
             },
             "googleScholar": {
               "oneOf": [
                 { "$ref": "sharedDefinitions#/definitions/privacyEnumHidden" },
-                { "$ref": "sharedDefinitions#/definitions/privacyEnumInvisible" }
+                {
+                  "$ref": "sharedDefinitions#/definitions/privacyEnumInvisible"
+                }
               ]
             }
           }
         },
         "experiencesInternal": {
           "type": "array",
-          "items": { "$ref": "sharedDefinitions#/definitions/ifJobTitleCheckHiddenPrivacy" }
+          "items": {
+            "$ref": "sharedDefinitions#/definitions/ifJobTitleCheckHiddenPrivacy"
+          }
         },
         "experiencesExternal": {
           "type": "array",
@@ -180,7 +216,9 @@
                       "allOf": [
                         {
                           "oneOf": [
-                            { "$ref": "sharedDefinitions#/definitions/privacyEnumHidden" },
+                            {
+                              "$ref": "sharedDefinitions#/definitions/privacyEnumHidden"
+                            },
                             {
                               "$ref": "sharedDefinitions#/definitions/privacyEnumInvisible"
                             }
@@ -193,19 +231,19 @@
               },
               {
                 "oneOf": [
-                  { "$ref": "sharedDefinitions#/definitions/privacyEnumHidden" },
-                  { "$ref": "sharedDefinitions#/definitions/privacyEnumInvisible" }
+                  {
+                    "$ref": "sharedDefinitions#/definitions/privacyEnumHidden"
+                  },
+                  {
+                    "$ref": "sharedDefinitions#/definitions/privacyEnumInvisible"
+                  }
                 ]
               }
             ]
           }
         }
       },
-      "required": [
-        "username",
-        "name",
-        "surname"
-      ]
+      "required": ["username", "name", "surname"]
     }
   }
 }

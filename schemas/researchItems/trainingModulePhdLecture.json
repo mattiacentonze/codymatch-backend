@@ -31,11 +31,7 @@
     },
     "delivery": {
       "type": "string",
-      "enum": [
-        "On Line",
-        "In Presence",
-        "On Line/In Presence"
-      ]
+      "enum": ["On Line", "In Presence", "On Line/In Presence"]
     },
     "wholeModule": {
       "type": "boolean"
@@ -44,7 +40,8 @@
       "oneOf": [
         {
           "type": "string"
-        },         {
+        },
+        {
           "type": "null"
         }
       ]

@@ -1,9 +1,5 @@
 import _ from 'lodash';
 import { DataTypes, Op } from 'sequelize';
-import Blueprint from '#root/services/Blueprint.mjs';
-import getValidator from '#root/services/Validator.mjs';
-import sequelize from '#root/services/Sequelize.mjs';
-import { errorTypes } from '#root/services/Error.mjs';
 import config from '#root/config/config.mjs';
 import Affiliation from '#root/models/Affiliation.mjs';
 import Author from '#root/models/Author.mjs';
@@ -12,6 +8,10 @@ import Institute from '#root/models/Institute.mjs';
 import OriginIdentifier from '#root/models/OriginIdentifier.mjs';
 import ResearchItemOriginIdentifier from '#root/models/ResearchItemOriginIdentifier.mjs';
 import ResearchItemType from '#root/models/ResearchItemType.mjs';
+import Blueprint from '#root/services/Blueprint.mjs';
+import { errorTypes } from '#root/services/Error.mjs';
+import sequelize from '#root/services/Sequelize.mjs';
+import getValidator from '#root/services/Validator.mjs';
 
 export async function validateResearchItemData(typeId, data, kind = 'draft') {
   if (!typeId) throw new Error('Missing researchItemType information');
