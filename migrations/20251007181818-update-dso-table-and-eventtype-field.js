@@ -292,7 +292,7 @@ export async function down({ context: queryInterface }) {
         sub_type = ri.data->'eventType'->>'label',
         event_string = ri.data->>'event',
         event_string_length = CASE WHEN ri.data ? 'event'
-          THEN length(lower(regexp_replace(COALESCE(ri.data->>'event',''), '<[^>]*>','','g')))
+          THEN length(lower(regexp_replace(COALESCE(ri.data->>'event',''), '<[^>]*>','','g')))::text
           ELSE event_string_length END
       FROM research_item ri
       WHERE ri.id = d.research_item_id;
