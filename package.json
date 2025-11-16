@@ -14,7 +14,6 @@
     "migrate": "node migrator.js db:migrate",
     "migrate-undo": "node migrator.js db:migrate:undo",
     "migrate-undo-all": "node migrator.js db:migrate:undo:all",
-    "add-admin": "node scripts/setupAdmin.js",
     "test": "vitest",
     "test:watch": "vitest --watch",
     "test:coverage": "vitest run --coverage"

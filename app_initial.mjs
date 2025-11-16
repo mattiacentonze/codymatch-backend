@@ -7,10 +7,8 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import session from 'express-session';
 import apiRouter from '#root/routes/index.mjs';
-import errorInit from '#root/services/ExpressError.mjs';
+import errorInit from '#root/services/express-error.mjs';
 import models from '#root/models/init-models.mjs';
-import cron from '#root/services/Cron.mjs';
-import { initPermissions } from '#root/services/Authorization.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -36,8 +34,6 @@ app.use(
 app.use(apiRouter);
 
 await models.init();
-if (process.env.NODE_ENV !== 'test') await cron.init();
-await initPermissions();
 
 errorInit(app);
 
