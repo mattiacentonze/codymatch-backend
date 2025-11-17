@@ -6,10 +6,9 @@ import { handleException } from '#root/services/error.mjs';
 const router = Router();
 
 /**
- * GET /challenge/:id
- * Basic read endpoint using Blueprint.get
+ * GET /challenges
  */
-router.get('/challenge/:id', async (_req, res) => {
+router.get('/challenges', async (_req, res) => {
   try {
     // const id = Number(req.params.id);
 
@@ -19,7 +18,7 @@ router.get('/challenge/:id', async (_req, res) => {
     //     : [],
     // });
 
-    res.json('true');
+    res.json({ success: true });
   } catch (error) {
     handleException(res, error);
   }

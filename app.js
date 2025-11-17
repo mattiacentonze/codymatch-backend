@@ -21,6 +21,6 @@ server.on('upgrade', function (req, socket, head) {
   proxy.ws(req, socket, head);
 });
 
-server.listen(3000, () => {
+server.listen(3001, () => {
   console.log('CODYMATCH STARTED');
 });
