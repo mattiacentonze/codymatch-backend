@@ -14,7 +14,7 @@ import {
 //   runQuery,
 //   setupTestData,
 //   login,
-// } from './utils/testUtils.mjs';
+// } from './utils/testUtdils.mjs';
 
 import sequelize from '#root/services/sequelize.mjs';
 // import app from '#root/app_initial.mjs';
